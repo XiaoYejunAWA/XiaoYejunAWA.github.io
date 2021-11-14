@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2078/01/01/hello-world/</url>
+    <content><![CDATA[<p>你好啊，很高兴你可以来到我的个人博客!</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的世界启动器教程</title>
     <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/">第一集，启动与基础</a></p>
@@ -10,10 +16,12 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2078/01/01/hello-world/</url>
-    <content><![CDATA[<p>你好啊，很高兴你可以来到我的个人博客!</p>
-]]></content>
+    <title>我的世界启动器教程P2</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P1</title>
@@ -77,12 +85,9 @@
       </tags>
   </entry>
   <entry>
-    <title>我的世界启动器教程P2</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/</url>
+    <title>没什么用的文章，用于测试</title>
+    <url>/2021/11/13/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P3</title>
@@ -91,10 +96,5 @@
       <tags>
         <tag>-我的世界启动器</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>没什么用的文章，用于测试</title>
-    <url>/2021/11/13/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
