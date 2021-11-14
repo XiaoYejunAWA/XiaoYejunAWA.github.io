@@ -69,6 +69,9 @@
 <h3 id="打包dll"><a href="#打包dll" class="headerlink" title="打包dll"></a>打包dll</h3><p>如果直接发布需要很多文件一起发布，所以添加nuget包，搜索fody添加Costura.Fody</p>
 <p>可能会导致界面设计出现绿色波浪线，但没有问题，不去管他就行</p>
 <h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3>]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P2</title>
