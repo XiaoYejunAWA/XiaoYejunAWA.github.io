@@ -7,6 +7,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>我的世界启动器教程</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/">第一集，启动与基础</a></p>
+]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我的世界启动器教程P1</title>
     <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/</url>
     <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV16b4y1U7gs">快来制作属于自己的mc启动器吧P1|启动与基础</a></p>
@@ -63,15 +72,6 @@
 <h3 id="打包dll"><a href="#打包dll" class="headerlink" title="打包dll"></a>打包dll</h3><p>如果直接发布需要很多文件一起发布，所以添加nuget包，搜索fody添加Costura.Fody</p>
 <p>可能会导致界面设计出现绿色波浪线，但没有问题，不去管他就行</p>
 <h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3>]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的世界启动器教程</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/">第一集，启动与基础</a></p>
-]]></content>
       <tags>
         <tag>-我的世界启动器</tag>
       </tags>
