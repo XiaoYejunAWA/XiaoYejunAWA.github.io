@@ -23,7 +23,11 @@ audio {display:none;visibility:hidden;opacity:0;width:0;height:0;}
 #mark {width:100%;height:560px;overflow:hidden;}
 .layer {position:relative;}
 #cover {position:absolute;max-width:none;}
-#cover a:hover{size: 120%;transition: 400ms ease-in-out;}
+#cover a:hover{transform: scale(1.15);
+  -webkit-transform: scale(1.15);
+  -moz-transform: scale(1.15);
+  -ms-transform: scale(1.15);
+  -o-transform: scale(1.15);}
 #header {position:absolute;top:70px;width:100%;}
 #header > div {margin:0 60px;position:relative;}
 .icon-menu {font-size:20px;padding:6px 6px 5px;border-radius:2px;cursor:pointer;position:absolute;z-index:4;right:0;top:0;margin-top:-3px;background:rgba(255,255,255,.9);}
