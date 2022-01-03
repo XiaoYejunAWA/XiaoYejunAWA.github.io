@@ -7,27 +7,20 @@
 ]]></content>
   </entry>
   <entry>
-    <title>我的世界启动器教程</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/">第一集，启动与基础</a></p>
-]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的世界启动器教程P2</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一些喜欢的插画</title>
     <url>/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/</url>
     <content><![CDATA[<p><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/1.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/2.png" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/3.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/4.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/5.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/6.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/7.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/8.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/9.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/10.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/11.jpg" alt="233"></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>我的世界启动器教程</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/" title="鼠标轻轻单击左键即可打开">第一集，启动与基础</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/" title="鼠标轻轻单击左键即可打开">第二集，找Java与报错</a></p>
+]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P1</title>
@@ -91,9 +84,67 @@
       </tags>
   </entry>
   <entry>
-    <title>我的世界启动器教程P3</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/</url>
-    <content><![CDATA[]]></content>
+    <title>我的世界启动器教程P2</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/</url>
+    <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV1CU4y17746">快来制作属于自己的mc启动器吧P2|自定义信息与报错</a></p>
+<h1 id="继续写代码"><a href="#继续写代码" class="headerlink" title="继续写代码"></a>继续写代码</h1><h3 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h3><p>首先在界面设计那里（就是做你启动器样子的地方）找到 <code>&lt;Grid&gt;</code>，在后面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;ComboBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          x:Name=&quot;javaCombo&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,70,0,0&quot;</span><br><span class="line">          pu:ComboBoxHelper.Header=&quot;Select one :&quot;</span><br><span class="line">          pu:ComboBoxHelper.ItemHeight=&quot;30&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;IdTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Right&quot;</span><br><span class="line">          VerticalAlignment=&quot;Bottom&quot;</span><br><span class="line">          Margin=&quot;0,0,30,100&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;MemoryTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,110,0,0&quot;/&gt;</span><br></pre></td></tr></table></figure>
+
+<p>布局根据自己喜好调整</p>
+<h3 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h3><p>在MainWindow类和button点击事件中间加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">public void GameStart()//定义启动游戏函数</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后把button点击事件里的代码全都放进上面加的GameStart里面</p>
+<p>然后在button点击事件里加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">GameStart();//调用启动函数</span><br></pre></td></tr></table></figure>
+
+<p>然后开始下一步</p>
+<h1 id="开始做报错"><a href="#开始做报错" class="headerlink" title="开始做报错"></a>开始做报错</h1><p>在GameStart函数最后面[也就是)这个符号前面]加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">if(!result.Success)</span><br><span class="line">&#123;</span><br><span class="line">    switch (result.ErrorType)</span><br><span class="line">    &#123;</span><br><span class="line">        case ErrorType.NoJAVA:</span><br><span class="line">            MessageBoxX.Show(&quot;java错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.AuthenticationFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;登录错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.UncompressingFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;文件错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        default:</span><br><span class="line">            MessageBoxX.Show(result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后报错就做好了</p>
+<p>在测试时发现如果没有改东西没有选版本就点启动的话启动器会崩溃，所以我们需要解决崩溃</p>
+<h3 id="解决崩溃"><a href="#解决崩溃" class="headerlink" title="解决崩溃"></a>解决崩溃</h3><p>在GameStart函数的{后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">try</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后把启动游戏的代码和报错代码放入try里面</p>
+<p>然后在try的结尾}后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">catch</span><br><span class="line">&#123;</span><br><span class="line">    MessageBoxX.Show(&quot;启动失败&quot;,&quot;错误&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后在try上面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">if (versionCombo.Text != string.Empty&amp;&amp;javaCombo.Text != string.Empty&amp;&amp;IdTextbox.Text != string.Empty&amp;&amp;MemoryTextbox.Text != string.Empty)</span><br><span class="line">&#123;</span><br></pre></td></tr></table></figure>
+<p>当然ABC.ABC!=string.Empty后也和可以再加上&amp;&amp;ABC.ABC!=null<br>其中ABC.ABC就是versionCombo.Text这种</p>
+<p>然后在catch的}后面加上一个}，然后在}后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    MessageBoxX.Show(&quot;信息未填完整&quot;,&quot;错误&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="自行设置最大内存和游戏名"><a href="#自行设置最大内存和游戏名" class="headerlink" title="自行设置最大内存和游戏名"></a>自行设置最大内存和游戏名</h3><p>在界面设计处找到我们的MemoryTextbox，然后在里面任意处加上</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Text=&quot;1024&quot;</span><br></pre></td></tr></table></figure>
+
+<p>这就是给最大内存设置个默认值，默认为1024MB也就是1GB</p>
+<p>然后右键项目（右边那个绿色的有C#图标的那个）添加引用nuget包</p>
+<p>搜索SquareMinecraftLauncher，然后添加引用</p>
+<p>然后在界面设置找到我们的javaCombo，在里面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">DisplayMemberPath=&quot;Version&quot;</span><br><span class="line">SelectedValuePath=&quot;Path&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后在MainWindow类中添加</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SquareMinecraftLauncher.Minecraft.Tools tools = new SquareMinecraftLauncher.Minecraft.Tools();</span><br></pre></td></tr></table></figure>
+
+<p>在MainWindows类最后面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">javaCombo.ItemSource = tools.GetJavaPath();</span><br></pre></td></tr></table></figure>
+
+<p>最后把启动代码一改就行了，改了之后是这样的:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Core.JavaPath = javaCombo.SelectedValue.ToString();</span><br><span class="line">var ver = (KMCCC.Launcher.Version)comboBox1.SelectedItem;</span><br><span class="line">var result = Core.Launch(new LaunchOptions</span><br><span class="line"> &#123;</span><br><span class="line"> Version = ver, //Ver为Versions里你要启动的版本名字</span><br><span class="line"> MaxMemory = Convert.ToInt32(MemoryTextbox.Text), //最大内存，int类型</span><br><span class="line"> Authenticator = new OfflineAuthenticator(IdTextbox.Text), //离线启动</span><br><span class="line"> Mode = LaunchMode.MCLauncher, //启动模式</span><br><span class="line"> &#125;);</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以启动啦！</p>
+<h3 id="一些改进"><a href="#一些改进" class="headerlink" title="一些改进"></a>一些改进</h3><p>其次，默认的内存也可以根据情况取适合的内存</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
+<p>这个函数返回值是合适的内存<br>你可以在程序入口处，也就是MainWindows类的初始化函数后加入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">MemoryTextbox.Text = tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
+<p>当然也可以不要MemoryTextbox，直接把启动的MaxMemory的赋值改为这个函数</p>
+<h3 id="关于报错与警告"><a href="#关于报错与警告" class="headerlink" title="关于报错与警告"></a>关于报错与警告</h3><p>如果语句下有红色波浪线，代表报错，xaml里是绿线<br>报错将无法运行，可以鼠标移上去，有快速修复，但快速修复一般本地化、实例化那种都没用，using的那个有时候有用<br>如果是黄色波浪线，代表警告，如果提示没有异步（虽然现在也没用到异步，但以后会讲道），就把await去了就行，其他情况警告不用管它</p>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><del><em>作者:B站小叶君和B站MinecraftChrome联合制作（其实也不是一起做的awa，就我一个人在做，等他更视频awa）</em></del></p>
+<p><del><em>(其实最后我还是改了一点点的[doge])</em></del><br><del><em>(非常感谢MinecraftChrome的帮助！)</em></del></p>
+]]></content>
       <tags>
         <tag>-我的世界启动器</tag>
       </tags>
@@ -104,13 +155,21 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>我的世界启动器教程P6</title>
-    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP6/</url>
+    <title>我的世界启动器教程P3</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/</url>
     <content><![CDATA[]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P5</title>
     <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP5/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>我的世界启动器教程P6</title>
+    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP6/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>

@@ -10,7 +10,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君 我的世界启动器 b站小叶君,"> 
-    <meta name="description" content="小叶君的个人博客,"> 
+    <meta name="description" content="小叶君的个人博客,对应BILIBILI快来制作属于自己的mc启动器吧P2|自定义信息与报错
+继续写代码界面设计首先在界面设计那里（就是做你启动器样子的地方）找到 &amp;lt;Grid&amp;gt;，在后面添加
+12345678,"> 
     <meta name="author" content="xiaoyejun"> 
     <link rel="alternative" href="atom.xml" title="小叶君的窝" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -54,7 +56,65 @@
 
         </div>
         <div class="content markdown">
-            
+            <p>对应BILIBILI<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1CU4y17746">快来制作属于自己的mc启动器吧P2|自定义信息与报错</a></p>
+<h1 id="继续写代码"><a href="#继续写代码" class="headerlink" title="继续写代码"></a>继续写代码</h1><h3 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h3><p>首先在界面设计那里（就是做你启动器样子的地方）找到 <code>&lt;Grid&gt;</code>，在后面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">&lt;ComboBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          x:Name=&quot;javaCombo&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,70,0,0&quot;</span><br><span class="line">          pu:ComboBoxHelper.Header=&quot;Select one :&quot;</span><br><span class="line">          pu:ComboBoxHelper.ItemHeight=&quot;30&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;IdTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Right&quot;</span><br><span class="line">          VerticalAlignment=&quot;Bottom&quot;</span><br><span class="line">          Margin=&quot;0,0,30,100&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;MemoryTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,110,0,0&quot;/&gt;</span><br></pre></td></tr></table></figure>
+
+<p>布局根据自己喜好调整</p>
+<h3 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h3><p>在MainWindow类和button点击事件中间加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">public void GameStart()//定义启动游戏函数</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后把button点击事件里的代码全都放进上面加的GameStart里面</p>
+<p>然后在button点击事件里加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GameStart();//调用启动函数</span><br></pre></td></tr></table></figure>
+
+<p>然后开始下一步</p>
+<h1 id="开始做报错"><a href="#开始做报错" class="headerlink" title="开始做报错"></a>开始做报错</h1><p>在GameStart函数最后面[也就是)这个符号前面]加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">if(!result.Success)</span><br><span class="line">&#123;</span><br><span class="line">    switch (result.ErrorType)</span><br><span class="line">    &#123;</span><br><span class="line">        case ErrorType.NoJAVA:</span><br><span class="line">            MessageBoxX.Show(&quot;java错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.AuthenticationFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;登录错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.UncompressingFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;文件错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        default:</span><br><span class="line">            MessageBoxX.Show(result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后报错就做好了</p>
+<p>在测试时发现如果没有改东西没有选版本就点启动的话启动器会崩溃，所以我们需要解决崩溃</p>
+<h3 id="解决崩溃"><a href="#解决崩溃" class="headerlink" title="解决崩溃"></a>解决崩溃</h3><p>在GameStart函数的{后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">try</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后把启动游戏的代码和报错代码放入try里面</p>
+<p>然后在try的结尾}后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">catch</span><br><span class="line">&#123;</span><br><span class="line">    MessageBoxX.Show(&quot;启动失败&quot;,&quot;错误&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后在try上面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">if (versionCombo.Text != string.Empty&amp;&amp;javaCombo.Text != string.Empty&amp;&amp;IdTextbox.Text != string.Empty&amp;&amp;MemoryTextbox.Text != string.Empty)</span><br><span class="line">&#123;</span><br></pre></td></tr></table></figure>
+<p>当然ABC.ABC!=string.Empty后也和可以再加上&amp;&amp;ABC.ABC!=null<br>其中ABC.ABC就是versionCombo.Text这种</p>
+<p>然后在catch的}后面加上一个}，然后在}后面加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    MessageBoxX.Show(&quot;信息未填完整&quot;,&quot;错误&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="自行设置最大内存和游戏名"><a href="#自行设置最大内存和游戏名" class="headerlink" title="自行设置最大内存和游戏名"></a>自行设置最大内存和游戏名</h3><p>在界面设计处找到我们的MemoryTextbox，然后在里面任意处加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Text=&quot;1024&quot;</span><br></pre></td></tr></table></figure>
+
+<p>这就是给最大内存设置个默认值，默认为1024MB也就是1GB</p>
+<p>然后右键项目（右边那个绿色的有C#图标的那个）添加引用nuget包</p>
+<p>搜索SquareMinecraftLauncher，然后添加引用</p>
+<p>然后在界面设置找到我们的javaCombo，在里面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">DisplayMemberPath=&quot;Version&quot;</span><br><span class="line">SelectedValuePath=&quot;Path&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后在MainWindow类中添加</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">SquareMinecraftLauncher.Minecraft.Tools tools = new SquareMinecraftLauncher.Minecraft.Tools();</span><br></pre></td></tr></table></figure>
+
+<p>在MainWindows类最后面添加</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">javaCombo.ItemSource = tools.GetJavaPath();</span><br></pre></td></tr></table></figure>
+
+<p>最后把启动代码一改就行了，改了之后是这样的:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Core.JavaPath = javaCombo.SelectedValue.ToString();</span><br><span class="line">var ver = (KMCCC.Launcher.Version)comboBox1.SelectedItem;</span><br><span class="line">var result = Core.Launch(new LaunchOptions</span><br><span class="line"> &#123;</span><br><span class="line"> Version = ver, //Ver为Versions里你要启动的版本名字</span><br><span class="line"> MaxMemory = Convert.ToInt32(MemoryTextbox.Text), //最大内存，int类型</span><br><span class="line"> Authenticator = new OfflineAuthenticator(IdTextbox.Text), //离线启动</span><br><span class="line"> Mode = LaunchMode.MCLauncher, //启动模式</span><br><span class="line"> &#125;);</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以启动啦！</p>
+<h3 id="一些改进"><a href="#一些改进" class="headerlink" title="一些改进"></a>一些改进</h3><p>其次，默认的内存也可以根据情况取适合的内存</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
+<p>这个函数返回值是合适的内存<br>你可以在程序入口处，也就是MainWindows类的初始化函数后加入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">MemoryTextbox.Text = tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
+<p>当然也可以不要MemoryTextbox，直接把启动的MaxMemory的赋值改为这个函数</p>
+<h3 id="关于报错与警告"><a href="#关于报错与警告" class="headerlink" title="关于报错与警告"></a>关于报错与警告</h3><p>如果语句下有红色波浪线，代表报错，xaml里是绿线<br>报错将无法运行，可以鼠标移上去，有快速修复，但快速修复一般本地化、实例化那种都没用，using的那个有时候有用<br>如果是黄色波浪线，代表警告，如果提示没有异步（虽然现在也没用到异步，但以后会讲道），就把await去了就行，其他情况警告不用管它</p>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><del><em>作者:B站小叶君和B站MinecraftChrome联合制作（其实也不是一起做的awa，就我一个人在做，等他更视频awa）</em></del></p>
+<p><del><em>(其实最后我还是改了一点点的[doge])</em></del><br><del><em>(非常感谢MinecraftChrome的帮助！)</em></del></p>
+
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">
                 <source type="audio/mpeg" src="">
