@@ -113,6 +113,7 @@
 
 <p>然后在try上面加上</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">if (versionCombo.Text != string.Empty&amp;&amp;javaCombo.Text != string.Empty&amp;&amp;IdTextbox.Text != string.Empty&amp;&amp;MemoryTextbox.Text != string.Empty)</span><br><span class="line">&#123;</span><br></pre></td></tr></table></figure>
+
 <p>当然ABC.ABC!=string.Empty后也和可以再加上&amp;&amp;ABC.ABC!=null</p>
 <p>其中ABC.ABC就是versionCombo.Text这种</p>
 <p>然后在catch的}后面加上一个}，然后在}后面加上</p>
