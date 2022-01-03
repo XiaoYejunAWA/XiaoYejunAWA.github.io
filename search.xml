@@ -87,7 +87,7 @@
     <title>我的世界启动器教程P2</title>
     <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/</url>
     <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV1CU4y17746">快来制作属于自己的mc启动器吧P2|自定义信息与报错</a></p>
-<h1 id="继续写代码"><a href="#继续写代码" class="headerlink" title="继续写代码"></a>继续写代码</h1><h3 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h3><p>首先在界面设计那里（就是做你启动器样子的地方）找到 <Grid>，在后面添加</p>
+<h1 id="继续写代码"><a href="#继续写代码" class="headerlink" title="继续写代码"></a>继续写代码</h1><h3 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h3><p>首先在界面设计那里（就是做你启动器样子的地方）找到 Grid，在后面添加</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;ComboBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          x:Name=&quot;javaCombo&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,70,0,0&quot;</span><br><span class="line">          pu:ComboBoxHelper.Header=&quot;Select one :&quot;</span><br><span class="line">          pu:ComboBoxHelper.ItemHeight=&quot;30&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;IdTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Right&quot;</span><br><span class="line">          VerticalAlignment=&quot;Bottom&quot;</span><br><span class="line">          Margin=&quot;0,0,30,100&quot;/&gt;</span><br><span class="line"> &lt;TextBox Height=&quot;30&quot;</span><br><span class="line">          Width=&quot;200&quot;</span><br><span class="line">          x:Name=&quot;MemoryTextbox&quot;</span><br><span class="line">          pu:TextBoxHelper.Header=&quot;Account :&quot;</span><br><span class="line">          pu:TextBoxHelper.Watermark=&quot;PlaceHolder&quot;</span><br><span class="line">          pu:TextBoxHelper.CornerRadius=&quot;15&quot;</span><br><span class="line">          HorizontalAlignment=&quot;Left&quot;</span><br><span class="line">          VerticalAlignment=&quot;Top&quot;</span><br><span class="line">          Margin=&quot;30,110,0,0&quot;/&gt;</span><br></pre></td></tr></table></figure>
 
 <p>布局根据自己喜好调整</p>
@@ -156,11 +156,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我的世界启动器教程P4</title>
-    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP4/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>我的世界启动器教程P3</title>
     <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/</url>
     <content><![CDATA[]]></content>
@@ -169,18 +164,23 @@
       </tags>
   </entry>
   <entry>
+    <title>我的世界启动器教程P4</title>
+    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP4/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>我的世界启动器教程P5</title>
     <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP5/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>我的世界启动器教程P6</title>
-    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP6/</url>
+    <title>我的世界启动器教程P7</title>
+    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP7/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>我的世界启动器教程P7</title>
-    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP7/</url>
+    <title>我的世界启动器教程P6</title>
+    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP6/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
