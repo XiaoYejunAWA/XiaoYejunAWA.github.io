@@ -113,7 +113,8 @@
 
 <p>然后在try上面加上</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">if (versionCombo.Text != string.Empty&amp;&amp;javaCombo.Text != string.Empty&amp;&amp;IdTextbox.Text != string.Empty&amp;&amp;MemoryTextbox.Text != string.Empty)</span><br><span class="line">&#123;</span><br></pre></td></tr></table></figure>
-<p>当然ABC.ABC!=string.Empty后也和可以再加上&amp;&amp;ABC.ABC!=null<br>其中ABC.ABC就是versionCombo.Text这种</p>
+<p>当然ABC.ABC!=string.Empty后也和可以再加上&amp;&amp;ABC.ABC!=null</p>
+<p>其中ABC.ABC就是versionCombo.Text这种</p>
 <p>然后在catch的}后面加上一个}，然后在}后面加上</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    MessageBoxX.Show(&quot;信息未填完整&quot;,&quot;错误&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
@@ -138,10 +139,15 @@
 <p>然后就可以启动啦！</p>
 <h3 id="一些改进"><a href="#一些改进" class="headerlink" title="一些改进"></a>一些改进</h3><p>其次，默认的内存也可以根据情况取适合的内存</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
-<p>这个函数返回值是合适的内存<br>你可以在程序入口处，也就是MainWindows类的初始化函数后加入</p>
+
+<p>这个函数返回值是合适的内存</p>
+<p>你可以在程序入口处，也就是MainWindows类的初始化函数后加入</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">MemoryTextbox.Text = tools.GetMemorySize();</span><br></pre></td></tr></table></figure>
+
 <p>当然也可以不要MemoryTextbox，直接把启动的MaxMemory的赋值改为这个函数</p>
-<h3 id="关于报错与警告"><a href="#关于报错与警告" class="headerlink" title="关于报错与警告"></a>关于报错与警告</h3><p>如果语句下有红色波浪线，代表报错，xaml里是绿线<br>报错将无法运行，可以鼠标移上去，有快速修复，但快速修复一般本地化、实例化那种都没用，using的那个有时候有用<br>如果是黄色波浪线，代表警告，如果提示没有异步（虽然现在也没用到异步，但以后会讲道），就把await去了就行，其他情况警告不用管它</p>
+<h3 id="关于报错与警告"><a href="#关于报错与警告" class="headerlink" title="关于报错与警告"></a>关于报错与警告</h3><p>如果语句下有红色波浪线，代表报错，xaml里是绿线</p>
+<p>报错将无法运行，可以鼠标移上去，有快速修复，但快速修复一般本地化、实例化那种都没用，using的那个有时候有用</p>
+<p>如果是黄色波浪线，代表警告，如果提示没有异步（虽然现在也没用到异步，但以后会讲道），就把await去了就行，其他情况警告不用管它</p>
 <h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><del><em>作者:B站小叶君和B站MinecraftChrome联合制作（其实也不是一起做的awa，就我一个人在做，等他更视频awa）</em></del></p>
 <p><del><em>(其实最后我还是改了一点点的[doge])</em></del><br><del><em>(非常感谢MinecraftChrome的帮助！)</em></del></p>
 ]]></content>
