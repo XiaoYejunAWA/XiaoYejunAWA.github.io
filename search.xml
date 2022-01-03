@@ -99,7 +99,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">GameStart();//调用启动函数</span><br></pre></td></tr></table></figure>
 
 <p>然后开始下一步</p>
-<h1 id="开始做报错"><a href="#开始做报错" class="headerlink" title="开始做报错"></a>开始做报错</h1><p>在GameStart函数最后面[也就是)这个符号前面]加上</p>
+<h1 id="开始做报错"><a href="#开始做报错" class="headerlink" title="开始做报错"></a>开始做报错</h1><p>在GameStart函数最后面 （也就是)这个符号前面） 加上</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">if(!result.Success)</span><br><span class="line">&#123;</span><br><span class="line">    switch (result.ErrorType)</span><br><span class="line">    &#123;</span><br><span class="line">        case ErrorType.NoJAVA:</span><br><span class="line">            MessageBoxX.Show(&quot;java错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.AuthenticationFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;登录错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        case ErrorType.UncompressingFailed:</span><br><span class="line">            MessageBoxX.Show(&quot;文件错误，详情信息：&quot;+result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">            break;</span><br><span class="line">        default:</span><br><span class="line">            MessageBoxX.Show(result.ErrorMessage,&quot;错误&quot;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p>然后报错就做好了</p>
