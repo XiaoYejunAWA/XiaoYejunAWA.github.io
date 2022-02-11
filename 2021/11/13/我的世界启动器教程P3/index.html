@@ -10,8 +10,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君 我的世界启动器 b站小叶君,"> 
-    <meta name="description" content="小叶君的个人博客,对应BILIBILI快来制作属于自己的mc启动器吧P2|自定义信息与报错
-"> 
+    <meta name="description" content="小叶君的个人博客,对应BILIBILI快来制作属于自己的mc启动器吧P3|正版登录
+设计思路在设置id的Textbox上方弄三个按钮用于切换 正版/离线/微软 登录，在按钮上方设置一个作为登录界面
+xaml在xaml,"> 
     <meta name="author" content="xiaoyejun"> 
     <link rel="alternative" href="atom.xml" title="小叶君的窝" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -55,7 +56,33 @@
 
         </div>
         <div class="content markdown">
-            <p>对应BILIBILI<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Sv411N7of">快来制作属于自己的mc启动器吧P2|自定义信息与报错</a></p>
+            <p>对应BILIBILI<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Sv411N7of">快来制作属于自己的mc启动器吧P3|正版登录</a></p>
+<h3 id="设计思路"><a href="#设计思路" class="headerlink" title="设计思路"></a>设计思路</h3><p>在设置id的Textbox上方弄三个按钮用于切换 正版/离线/微软 登录，在按钮上方设置一个<ContentControl>作为登录界面</p>
+<h3 id="xaml"><a href="#xaml" class="headerlink" title="xaml"></a>xaml</h3><p>在xaml中加入一个ContentControl</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;ContentControl</span><br><span class="line">name=&quot;ContentControl1&quot;</span><br><span class="line">HorizontalAlignment=&quot;Right&quot;</span><br><span class="line">VerticalAlignment=&quot;Buttom&quot;</span><br><span class="line">Width=&quot;200&quot;</span><br><span class="line">Height=&quot;200&quot;</span><br><span class="line">Margin=&quot;0,0,30,140&quot;&gt;&lt;/ContentControl&gt;</span><br></pre></td></tr></table></figure>
+<p>然后就可以删去之前用于装id的Textbox<br>然后放三个按钮，设置一下布局就行了！<br>这个相信大家都可以做到 <del>绝对不是懒得写文档了，嗷呜</del></p>
+<h3 id="Page"><a href="#Page" class="headerlink" title="Page"></a>Page</h3><p>在项目里新建一个文件夹，就把它命名为LoginUI<br>在文件夹里添加两个Page类<br>Lixian,ZhengBan<br>（都是拼音hhh）<br>当然你想用英文也行<br>分别是<br>OffLine,OnLine</p>
+<p>视频中是新建了3个page，但后面我们直接用sml的微软登录，所以WeiRuan就不用了</p>
+<p>把它们xaml中的大小都改为200,200<br>就是d:DesignHeight=”200” d:DesignWidth=”200”</p>
+<p>离线page<br>这个添加一个Textbox用来装id<br>大家看视频吧</p>
+<p>正版page<br>这个添加一个Textbox，一个PasswordBox就行</p>
+<h3 id="cs代码"><a href="#cs代码" class="headerlink" title="cs代码"></a>cs代码</h3><p>给三个按钮添加click事件</p>
+<p>在MainWindow中本地化3个UI<br>就是</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">LoginUI.LiXian LiXian = new LoginUI.LiXian();</span><br><span class="line">LoginUI.ZhengBan ZhengBan = new LoginUI.ZhengBan();</span><br></pre></td></tr></table></figure>
+
+
+<p>然后之前不是添加了click事件嘛<br>离线就是<br>ContentControl1.Content = new Frame{content=LiXian};<br>正版就是<br>ContentControl1.Content = new Frame{content=ZhengBan};</p>
+<p>然后改一下启动代码<br>这个跟视频做吧</p>
+<h3 id="正版登录代码"><a href="#正版登录代码" class="headerlink" title="正版登录代码"></a>正版登录代码</h3><p>在启动函数中加入</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">LauncherOptions launcherOptions = new LauncherOptions();</span><br><span class="line">launcherOptions.MaxMemory = Convert.ToInt32(MemoryTextbox.Text);</span><br></pre></td></tr></table></figure>
+
+<p>在MainWindow中定义一个变量用于改变启动模式<br>视频中用的是int<br>如果你愿意可以用enum，不过显然是enum更清晰，更好用</p>
+<p>然后在上方启动函数中加入的代码下写</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">switch(launchMode)</span><br><span class="line">&#123;</span><br><span class="line">    case 1:</span><br><span class="line">        launcherOptions.Authenticator = new OfflineAuthenticator(LiXian.IDText.Text);</span><br><span class="line">        break;</span><br><span class="line">    case 2:</span><br><span class="line">        launcherOptions.Authenticator = new YggdrasilLogin(ZhengBan.Email.Text,ZhengBan.password.Password,false)</span><br><span class="line">        Break;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>别忘了给那几个控件命名哦</p>
+<p>Tip:视频里一开始正版的密码用的是Textbox，但后面换了PasswordBox</p>
+<p>然后跟视频改一下报错那边的</p>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><a href="https://xiaoyejunawa.github.io/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP4/">下一期</a></p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">

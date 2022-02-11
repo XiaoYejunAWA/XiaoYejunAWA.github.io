@@ -7,12 +7,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>一些喜欢的插画</title>
-    <url>/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/</url>
-    <content><![CDATA[<p><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/1.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/2.png" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/3.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/4.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/5.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/6.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/7.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/8.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/9.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/10.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/11.jpg" alt="233"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>我的世界启动器教程P1</title>
     <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/</url>
     <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV16b4y1U7gs">快来制作属于自己的mc启动器吧P1|启动与基础</a></p>
@@ -74,7 +68,24 @@
 <h3 id="打包dll"><a href="#打包dll" class="headerlink" title="打包dll"></a>打包dll</h3><p>如果直接发布需要很多文件一起发布，所以添加nuget包，搜索fody添加Costura.Fody</p>
 <p>可能会导致界面设计出现绿色波浪线，但没有问题，不去管他就行</p>
 <h1 id="注意事项！"><a href="#注意事项！" class="headerlink" title="注意事项！"></a>注意事项！</h1><p>由于kmccc的协议问题，若要发布用kmccc为核心的启动器，则必须开源<br>但不用担心，后续会换成更松的MIT协议的sml</p>
-<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3>]]></content>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/">下一期</a></p>
+]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些喜欢的插画</title>
+    <url>/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/</url>
+    <content><![CDATA[<p><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/1.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/2.png" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/3.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/4.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/5.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/6.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/7.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/8.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/9.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/10.jpg" alt="233"><br><img src="/2021/11/28/%E4%B8%80%E4%BA%9B%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E7%94%BB/11.jpg" alt="233"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>我的世界启动器教程</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/" title="鼠标轻轻单击左键即可打开">第一集，启动与基础</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/" title="鼠标轻轻单击左键即可打开">第二集，找Java与报错</a></p>
+]]></content>
       <tags>
         <tag>-我的世界启动器</tag>
       </tags>
@@ -138,27 +149,9 @@
 <h3 id="关于报错与警告"><a href="#关于报错与警告" class="headerlink" title="关于报错与警告"></a>关于报错与警告</h3><p>如果语句下有红色波浪线，代表报错，xaml里是绿线</p>
 <p>报错将无法运行，可以鼠标移上去，有快速修复，但快速修复一般本地化、实例化那种都没用，using的那个有时候有用</p>
 <p>如果是黄色波浪线，代表警告，如果提示没有异步（虽然现在也没用到异步，但以后会讲道），就把await去了就行，其他情况警告不用管它</p>
-<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><del><em>作者:B站小叶君和B站MinecraftChrome联合制作（其实也不是一起做的awa，就我一个人在做，等他更视频awa）</em></del></p>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/">下一期</a></p>
+<p><del><em>作者:B站小叶君和B站MinecraftChrome联合制作（其实也不是一起做的awa，就我一个人在做，等他更视频awa）</em></del></p>
 <p><del><em>(其实最后我还是改了一点点的[doge])</em></del><br>(非常感谢MinecraftChrome的帮助！)</p>
-]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的世界启动器教程</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>这里是小叶君的我的世界启动器（MinecraftLauncher,简称 ML）教程的导航页<br><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP1/" title="鼠标轻轻单击左键即可打开">第一集，启动与基础</a></p>
-<p><a href="https://xiaoyejunawa.github.io/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP2/" title="鼠标轻轻单击左键即可打开">第二集，找Java与报错</a></p>
-]]></content>
-      <tags>
-        <tag>-我的世界启动器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的世界启动器教程P3</title>
-    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/</url>
-    <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV1Sv411N7of">快来制作属于自己的mc启动器吧P2|自定义信息与报错</a></p>
 ]]></content>
       <tags>
         <tag>-我的世界启动器</tag>
@@ -168,6 +161,41 @@
     <title>我的世界启动器教程P4</title>
     <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP4/</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>我的世界启动器教程P3</title>
+    <url>/2021/11/13/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP3/</url>
+    <content><![CDATA[<p>对应BILIBILI<a href="https://www.bilibili.com/video/BV1Sv411N7of">快来制作属于自己的mc启动器吧P3|正版登录</a></p>
+<h3 id="设计思路"><a href="#设计思路" class="headerlink" title="设计思路"></a>设计思路</h3><p>在设置id的Textbox上方弄三个按钮用于切换 正版/离线/微软 登录，在按钮上方设置一个<ContentControl>作为登录界面</p>
+<h3 id="xaml"><a href="#xaml" class="headerlink" title="xaml"></a>xaml</h3><p>在xaml中加入一个ContentControl</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;ContentControl</span><br><span class="line">name=&quot;ContentControl1&quot;</span><br><span class="line">HorizontalAlignment=&quot;Right&quot;</span><br><span class="line">VerticalAlignment=&quot;Buttom&quot;</span><br><span class="line">Width=&quot;200&quot;</span><br><span class="line">Height=&quot;200&quot;</span><br><span class="line">Margin=&quot;0,0,30,140&quot;&gt;&lt;/ContentControl&gt;</span><br></pre></td></tr></table></figure>
+<p>然后就可以删去之前用于装id的Textbox<br>然后放三个按钮，设置一下布局就行了！<br>这个相信大家都可以做到 <del>绝对不是懒得写文档了，嗷呜</del></p>
+<h3 id="Page"><a href="#Page" class="headerlink" title="Page"></a>Page</h3><p>在项目里新建一个文件夹，就把它命名为LoginUI<br>在文件夹里添加两个Page类<br>Lixian,ZhengBan<br>（都是拼音hhh）<br>当然你想用英文也行<br>分别是<br>OffLine,OnLine</p>
+<p>视频中是新建了3个page，但后面我们直接用sml的微软登录，所以WeiRuan就不用了</p>
+<p>把它们xaml中的大小都改为200,200<br>就是d:DesignHeight=”200” d:DesignWidth=”200”</p>
+<p>离线page<br>这个添加一个Textbox用来装id<br>大家看视频吧</p>
+<p>正版page<br>这个添加一个Textbox，一个PasswordBox就行</p>
+<h3 id="cs代码"><a href="#cs代码" class="headerlink" title="cs代码"></a>cs代码</h3><p>给三个按钮添加click事件</p>
+<p>在MainWindow中本地化3个UI<br>就是</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">LoginUI.LiXian LiXian = new LoginUI.LiXian();</span><br><span class="line">LoginUI.ZhengBan ZhengBan = new LoginUI.ZhengBan();</span><br></pre></td></tr></table></figure>
+
+
+<p>然后之前不是添加了click事件嘛<br>离线就是<br>ContentControl1.Content = new Frame{content=LiXian};<br>正版就是<br>ContentControl1.Content = new Frame{content=ZhengBan};</p>
+<p>然后改一下启动代码<br>这个跟视频做吧</p>
+<h3 id="正版登录代码"><a href="#正版登录代码" class="headerlink" title="正版登录代码"></a>正版登录代码</h3><p>在启动函数中加入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">LauncherOptions launcherOptions = new LauncherOptions();</span><br><span class="line">launcherOptions.MaxMemory = Convert.ToInt32(MemoryTextbox.Text);</span><br></pre></td></tr></table></figure>
+
+<p>在MainWindow中定义一个变量用于改变启动模式<br>视频中用的是int<br>如果你愿意可以用enum，不过显然是enum更清晰，更好用</p>
+<p>然后在上方启动函数中加入的代码下写</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">switch(launchMode)</span><br><span class="line">&#123;</span><br><span class="line">    case 1:</span><br><span class="line">        launcherOptions.Authenticator = new OfflineAuthenticator(LiXian.IDText.Text);</span><br><span class="line">        break;</span><br><span class="line">    case 2:</span><br><span class="line">        launcherOptions.Authenticator = new YggdrasilLogin(ZhengBan.Email.Text,ZhengBan.password.Password,false)</span><br><span class="line">        Break;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>别忘了给那几个控件命名哦</p>
+<p>Tip:视频里一开始正版的密码用的是Textbox，但后面换了PasswordBox</p>
+<p>然后跟视频改一下报错那边的</p>
+<h3 id="可以给个三连支持一下哦"><a href="#可以给个三连支持一下哦" class="headerlink" title="可以给个三连支持一下哦"></a>可以给个三连支持一下哦</h3><p><a href="https://xiaoyejunawa.github.io/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP4/">下一期</a></p>
+]]></content>
+      <tags>
+        <tag>-我的世界启动器</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的世界启动器教程P5</title>
@@ -185,13 +213,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>没什么用的文章，用于测试</title>
-    <url>/2021/11/13/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95/</url>
+    <title>我的世界启动器教程P8</title>
+    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP8/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>我的世界启动器教程P8</title>
-    <url>/2021/11/28/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%AF%E5%8A%A8%E5%99%A8%E6%95%99%E7%A8%8BP8/</url>
+    <title>没什么用的文章，用于测试</title>
+    <url>/2021/11/13/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
