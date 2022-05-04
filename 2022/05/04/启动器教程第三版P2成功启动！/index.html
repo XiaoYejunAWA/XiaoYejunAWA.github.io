@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="loading">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>启动器教程第三版P2成功启动！ - 小叶君的窝</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="小叶君 我的世界启动器 b站小叶君 启动器,"> 
+    <meta name="description" content="小叶君的个人博客,hello亲爱的观众朋友们大家好，这里是,啊不好意思习惯了[doge]
+创立项目好的回归正题，开始一个项目的第一件事就是创立项目，首先打开上一期下载好的visual studio，然后点一下创建新项,"> 
+    <meta name="author" content="xiaoyejun"> 
+    <link rel="alternative" href="atom.xml" title="小叶君的窝" type="application/atom+xml"> 
+    <link rel="icon" href="/img/favicon.png"> 
+    
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
+    
+<link rel="stylesheet" href="/css/diaspora.css">
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+
+<body class="loading">
+    <span id="config-title" style="display:none">小叶君的窝</span>
+    <div id="loader"></div>
+    <div id="single">
+    <div id="top" style="display: block;">
+    <div class="bar" style="width: 0;"></div>
+    <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://XiaoYejunAWA.github.io"></a>
+    <div title="播放/暂停" class="iconfont icon-play"></div>
+    <h3 class="subtitle">启动器教程第三版P2成功启动！</h3>
+    <div class="social">
+        <div>
+            <div class="share">
+                <a title="获取二维码" class="iconfont icon-scan" href="javascript:;"></a>
+            </div>
+            <div id="qr"></div>
+        </div>
+    </div>
+    <div class="scrollbar"></div>
+</div>
+
+    <div class="section">
+        <div class="article">
+    <div class='main'>
+        <h1 class="title">启动器教程第三版P2成功启动！</h1>
+        <div class="stuff">
+            <span>五月 04, 2022</span>
+            
+
+        </div>
+        <div class="content markdown">
+            <p>hello亲爱的观众朋友们大家好，这里是,啊不好意思习惯了[doge]</p>
+<h1 id="创立项目"><a href="#创立项目" class="headerlink" title="创立项目"></a>创立项目</h1><p>好的回归正题，开始一个项目的第一件事就是创立项目，首先打开上一期下载好的visual studio，然后点一下创建新项目<br>然后就会显示这个<br><img src="https://s3.bmp.ovh/imgs/2022/05/04/6533b7bfd9535560.png" alt="1"><br>我们可以搜一下WPF，语言要选C#（默认是所有语言）<br>这时候有两个，一个是带.net framework的，另一个是不带的<br>前者是.net 4及以前的框架，后者是.net 5,.net core 之类的<br>选择.net framewoek<br>下一步就是给项目取名字和选择位置了<br>框架就.net framewoek 4.7.2，点击创建<br>如果大家学过一点编程，应该会很熟悉这个界面<br>但还是大致讲一下<br>右边（默认是右边）有一列文件<br>vs色的vs图标的那个是解决方案，一个解决方案可以包括多个项目<br>绿色的写着C#的是项目文件<br>点一下小三角<br>xaml文件就是xaml（界面设计，前端）<br>点一下小三角<br>cs文件就是后端（这个教程只讲最基础的，所以不会用MVVM之类的，因此cs就作为后端）<br>参照本图<br><img src="https://s3.bmp.ovh/imgs/2022/05/04/a8843350e563f625.png" alt="233"><br><img src="https://s3.bmp.ovh/imgs/2022/05/04/f8f5f720c73d7ff3.png" alt="2333"></p>
+<h1 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h1><p>好的那么知道各个区域的作用了，我们先尝试添加一个按钮<br>在xaml的Grid中<br>写一下</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;Button&gt;&lt;/Button&gt;</span><br></pre></td></tr></table></figure>
+<p>具体可以自己学一下wpf<br>然后点击代码中的button按钮，这时候会发现属性区有所变化，然后自己设计一下布局和样式<br>这个其实无所谓，对功能实现影响不大，但布局，比如大小、对齐还是改一下<br>不然它默认是全屏的，另外Content可以更改它的文字，FontSize可以改文字大小<br>然后发现属性区上面有个无名称，这个名称不能乱改，涉及到代码部分<br>比如我把它改为LaunchButton（启动按钮的意思）<br>我们在button的代码中添加一个Click=””<br>然后引号间使我们的订阅事件的方法名<br>这个就是点击事件<br>然后引号间打一个空格，有个新建，点一下，会跳转到cs文件里<br>并为我们新建事件处理器，当然对于它，我们可以改个名字，比如我改成了GameLaunch<br>当然这样xaml里的那个名字也要改一下<br>最终我的结果是</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;Button x:Name=&quot;LaunchButton&quot;  HorizontalAlignment=&quot;Right&quot; Content=&quot;启动!&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;200&quot; Height=&quot;80&quot; Margin=&quot;0,0,10,10&quot; FontSize=&quot;36&quot; Click=&quot;GameLaunch&quot;&gt;&lt;/Button&gt;</span><br></pre></td></tr></table></figure>
+<h1 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h1><p>又到了喜闻乐见的代码部分，首先我们右键项目文件<br>管理nuget包<br>浏览<br>搜索“ModuleLauncher.Re”<br>版本选择2.6，新版本就需要.net core了<br>首先要引用<br>在开头写using ModuleLauncher.Re.Launcher;<br>然后我们要实例化启动信息</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">var launcherArguement = new LauncherArguments()</span><br><span class="line">    &#123;</span><br><span class="line"></span><br><span class="line">    &#125;;</span><br></pre></td></tr></table></figure>
+<p>那么大括号里面应该填什么呢<br>也有是启动的参数了<br>因为始终找不到他的文档，所以我就自己写了<br>看LauncherArguments类的定义<br>（注释是我自己写的）</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">public class LauncherArguments</span><br><span class="line">    &#123;</span><br><span class="line">        public MinecraftLocator MinecraftLocator &#123; get; set; &#125;//游戏文件位置</span><br><span class="line"></span><br><span class="line">        public AuthenticateResult Authentication &#123; get; set; &#125;//登录</span><br><span class="line"></span><br><span class="line">        public string MaxMemorySize &#123; get; set; &#125;//最大内存</span><br><span class="line"></span><br><span class="line">        public string MinMemorySize &#123; get; set; &#125;//最小内存</span><br><span class="line"></span><br><span class="line">        public string LauncherName &#123; get; set; &#125;//启动名字</span><br><span class="line"></span><br><span class="line">        public string JvmArgument &#123; get; set; &#125;//jvm信息</span><br><span class="line"></span><br><span class="line">        public ConnectionConfig ConnectionConfig &#123; get; set; &#125;//连接服务器信息</span><br><span class="line"></span><br><span class="line">        public ResolutionConfig ResolutionConfig &#123; get; set; &#125;//</span><br><span class="line"></span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>对于各个类的定义(只展示属性)</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">public class MinecraftLocator</span><br><span class="line">    &#123;</span><br><span class="line">        public string Location &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public MinecraftLocator(string location = &quot;.\\.minecraft&quot;)</span><br><span class="line">        &#123;</span><br><span class="line">            Location = location;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public static implicit operator MinecraftLocator(string location)//构造器，参数是位置</span><br><span class="line">        &#123;</span><br><span class="line">            return new MinecraftLocator(location);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">public class AuthenticateResult</span><br><span class="line">    &#123;</span><br><span class="line">        public string Username &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public string Uuid &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public string AccessToken &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public string ClientToken &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public string Error &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public string ErrorMessage &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public bool Verified &#123; get; set; &#125;</span><br><span class="line"></span><br><span class="line">        public static implicit operator AuthenticateResult(string name)//构造器，离线登录直接参数填名字就行，如果不是离线就上面属性改一下就行，那个以后再讲</span><br><span class="line">        &#123;</span><br><span class="line">            return new AuthenticateResult</span><br><span class="line">            &#123;</span><br><span class="line">                Username = name,</span><br><span class="line">                Uuid = Guid.NewGuid().ToString(&quot;N&quot;),</span><br><span class="line">                AccessToken = Guid.NewGuid().ToString(&quot;N&quot;),</span><br><span class="line">                ClientToken = Guid.NewGuid().ToString(&quot;N&quot;),</span><br><span class="line">                Verified = true</span><br><span class="line">            &#125;;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">public class ConnectionConfig</span><br><span class="line">    &#123;</span><br><span class="line">        private string _port;//端口</span><br><span class="line"></span><br><span class="line">        public string IpAddress &#123; get; set; &#125;//地址</span><br><span class="line"></span><br><span class="line">        public string Port</span><br><span class="line">        &#123;</span><br><span class="line">            get</span><br><span class="line">            &#123;</span><br><span class="line">                return _port;</span><br><span class="line">            &#125;</span><br><span class="line">            set</span><br><span class="line">            &#123;</span><br><span class="line">                _port = value ?? &quot;25565&quot;;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public static implicit operator ConnectionConfig(string ip)//构造器，参数为地址</span><br><span class="line">        &#123;</span><br><span class="line">            return new ConnectionConfig</span><br><span class="line">            &#123;</span><br><span class="line">                IpAddress = ip,</span><br><span class="line">                Port = &quot;25565&quot;</span><br><span class="line">            &#125;;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">public class ResolutionConfig</span><br><span class="line">    &#123;</span><br><span class="line">        public string WindowWidth &#123; get; set; &#125;//窗口宽度</span><br><span class="line"></span><br><span class="line">        public string WindowHeight &#123; get; set; &#125;//窗口高度</span><br><span class="line"></span><br><span class="line">        public bool? FullScreen &#123; get; set; &#125;//是否全屏</span><br><span class="line"></span><br><span class="line">        public static implicit operator ResolutionConfig(string size)//构造器，蚕食为大小，</span><br><span class="line">        &#123;</span><br><span class="line">            return new ResolutionConfig</span><br><span class="line">            &#123;</span><br><span class="line">                WindowHeight = size,</span><br><span class="line">                WindowWidth = size,</span><br><span class="line">                FullScreen = false</span><br><span class="line">            &#125;;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>当你把它的参数填完<br>然后</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">var launcherCore = new LauncherCore()</span><br><span class="line">            &#123;</span><br><span class="line"></span><br><span class="line">            &#125;;</span><br></pre></td></tr></table></figure>
+<p>这是实例化启动Core<br>然后<br>是的，又要填参数了<br>然后它的代码是</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">public class LauncherCore</span><br><span class="line">    &#123;</span><br><span class="line">        public LauncherArguments LauncherArguments &#123; get; set; &#125;//前面的launcherArguments</span><br><span class="line"></span><br><span class="line">        public string JavaPath &#123; get; set; &#125;//java路径</span><br><span class="line"></span><br><span class="line">        public Process Launch(string name, bool extractNatives = true)//这个就是启动的方法了，不是属性，也没有参数可以填</span><br><span class="line">        &#123;</span><br><span class="line"></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>然后，就可以启动了</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">launcherCore.Launch(&quot;1.8.9&quot;);</span><br></pre></td></tr></table></figure>
+
+
+<p>大概就这样，由于明天就返校了，但我还没写完作业，逃</p>
+<p>有什么问题可以写在评论区，下周会看<br>感觉有点不祥的预感，感觉.net framework的版本有点落后<br>或者这个教程出完，再出一期.net core版，可能换橘猫核心讲了，但那个我想顺便讲一讲MVVM</p>
+<h2 id="每期都有的赞助"><a href="#每期都有的赞助" class="headerlink" title="每期都有的赞助"></a>每期都有的赞助</h2><p>如果觉得我做得对你有帮助的话，可以赞助我<br>方法一:进入我的<a target="_blank" rel="noopener" href="https://space.bilibili.com/495713706">bilibili 主页</a>，点击充电<br>方法二:进入我的<a target="_blank" rel="noopener" href="https://afdian.net/@xiao_yejun">爱发电</a></p>
+<p>写作业去了，bye~</p>
+
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">
+                <source type="audio/mpeg" src="">
+            </audio>
+            
+                <ul id="audio-list" style="display:none">
+                    
+                </ul>
+            
+        </div>
+        
+    <div id='gitalk-container' class="comment link"
+		data-enable='true'
+        data-ae='true'
+        data-ci='5d3a23fb0212d0591a76'
+        data-cs='ba9f9b323adbe42050059b48a64f77412fdca41f'
+        data-r='XiaoYeJunComments'
+        data-o='XiaoYejunAWA'
+        data-a='XiaoYejunAWA'
+        data-d='false'
+    >查看评论</div>
+
+
+    </div>
+    
+</div>
+
+
+    </div>
+</div>
+</body>
+
+<script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+
+<script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/typed.js"></script>
+<script src="/js/diaspora.js"></script>
+
+
+<link rel="stylesheet" href="/photoswipe/photoswipe.css">
+<link rel="stylesheet" href="/photoswipe/default-skin/default-skin.css">
+
+
+<script src="/photoswipe/photoswipe.min.js"></script>
+<script src="/photoswipe/photoswipe-ui-default.min.js"></script>
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XKN7Z6J1J7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XKN7Z6J1J7');
+</script>
+<!-- End Google Analytics -->
+
+
+</html>
