@@ -5,15 +5,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>诶嘿 - 小叶君Starry</title>
+    <title>标签: 资源分享 - 小叶君Starry</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君,"> 
-    <meta name="description" content="小叶君的博客,其实这个不是最开始的博客，之前还有一版博客但是由于上传github的时候没有传原源码然后某次想写文章发现源码没了就重建了
-以前的文档没了如果你想要学启动器
-那就
-别看我的教程了我的教程太烂的真不如自,"> 
+    <meta name="description" content="小叶君的博客,"> 
     <meta name="author" content="Starry"> 
     <link rel="alternative" href="atom.xml" title="小叶君Starry" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -28,84 +25,103 @@
 <body class="loading">
     <span id="config-title" style="display:none">小叶君Starry</span>
     <div id="loader"></div>
-    <div id="single">
-    <div id="top" style="display: block;">
-    <div class="bar" style="width: 0;"></div>
-    <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://xiaoyejunawa.github.io"></a>
-    <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">诶嘿</h3>
-    <div class="social">
-        <div>
-            <div class="share">
-                <a title="获取二维码" class="iconfont icon-scan" href="javascript:;"></a>
-            </div>
-            <div id="qr"></div>
-        </div>
-    </div>
-    <div class="scrollbar"></div>
+    <div class="nav">
+    <ul id="menu-menu" class="menu">
+        
+        <li class="pview menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="//" title="首页" target="_blank" rel="noopener">首页</a>
+        </li>
+        
+        <li class="pview menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="/categories/" title="分类" target="_blank" rel="noopener">分类</a>
+        </li>
+        
+        <li class="pview menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="/tags/" title="标签" target="_blank" rel="noopener">标签</a>
+        </li>
+        
+        <li class="pview menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="/archives/" title="归档" target="_blank" rel="noopener">归档</a>
+        </li>
+        
+        <li class="pview menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="/about/" title="关于" target="_blank" rel="noopener">关于</a>
+        </li>
+        
+    </ul>
+	<span class="target"></span>
+	<center>
+	<div class="hitokoto">
+		<span class="typed" id="hitokoto" data-st="true"></span>
+	</div>
+	</center>
+	
+	<p class="footerlinks">
+		<a href="#" class="iconfont icon-null"></a>
+		
+            <a href="/" title="facebook" class="iconfont icon-facebook" target="_blank" rel="noopener"> </a>
+        
+            <a href="/" title="twitter" class="iconfont icon-twitter" target="_blank" rel="noopener"> </a>
+        
+            <a href="https://github.com/XiaoYejunAWA" title="github" class="iconfont icon-github" target="_blank" rel="noopener"> </a>
+        
+            <a href="/img/logo.png" title="wechat" class="iconfont icon-wechat" target="_blank" rel="noopener"> </a>
+        
+            <a href="/479545904@qq.com" title="email" class="iconfont icon-email" target="_blank" rel="noopener"> </a>
+        
+		<a href="#" class="iconfont icon-null"></a>
+	</p>
+	
+    <p id="copyright">
+        &copy; 2022 Starry.
+        <span> | </span>Powered by <a href="https://hexo.io/" title="Hexo" target="_blank" rel="noopener">Hexo</a>
+        <span> | </span>Theme <a href="https://github.com/Fechin/hexo-theme-diaspora" title="Diaspora" target="_blank" rel="noopener">Diaspora</a> by Fechin
+		
+    </p>
 </div>
 
-    <div class="section">
-        <div class="article">
-    <div class='main'>
-        <h1 class="title">诶嘿</h1>
-        <div class="stuff">
-            <span>九月 10, 2022</span>
-            
-
+<div id="container">
+    
+<div id="screen">
+    <div id="mark">
+        <div class="layer" data-depth="0.4">
+            <img src="/img/welcome-cover.jpg" id="cover" crossorigin="anonymous" width="1920" height="1080">
         </div>
-        <div class="content markdown">
-            <p>其实这个不是最开始的博客，之前还有一版博客<br>但是由于上传github的时候没有传原源码<br>然后某次想写文章发现源码没了<br>就重建了</p>
-<p>以前的文档没了<br>如果你想要学启动器</p>
-<p>那就</p>
-<p>别看我的教程了<br>我的教程太烂的<br>真不如自己学一下C#，wpf<br>再看看官文</p>
-
-            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
-                <source type="audio/mpeg" src="">
-            </audio>
-            
-                <ul id="audio-list" style="display:none">
-                    
-                        
-                            <li title='0' data-url='//music/1.mp3'></li>
-                        
-                    
-                        
-                            <li title='1' data-url='//music/2.mp3'></li>
-                        
-                    
-                        
-                            <li title='2' data-url='//music/3.mp3'></li>
-                        
-                    
-                        
-                            <li title='3' data-url='//music/4.mp3'></li>
-                        
-                    
-                </ul>
-            
+    </div>
+    <div id="vibrant">
+        <svg viewBox="0 0 2880 1620" height="100%" preserveAspectRatio="xMaxYMax slice">
+            <polygon opacity="0.7" points="2000,1620 0,1620 0,0 600,0 "/>
+        </svg>
+        <div></div>
+    </div>
+    <div id="header">
+        <div>
+            <a class="image-logo" href="/"></a>
+			
+			<div class="iconfont icon-search switchsearch" href="/search/" title="搜索"></div>
+			
+            <div class="iconfont icon-menu switchmenu"></div>
         </div>
-        
-    <div id='gitalk-container' class="comment link"
-		data-enable='true'
-        data-ae='true'
-        data-ci='17e852d3b4a5e5dfbfcb'
-        data-cs='f9d2c84715804d6ce5a1aed733d2427201bcbb52'
-        data-r='https://github.com/XiaoYejunAWA/XiaoYeJunComments.git'
-        data-o='XiaoYejunAWA'
-        data-a=''
-        data-d='false'
-    >查看评论</div>
-
-
+    </div>
+    
+    <div id="post0">
+        <p>九月 10, 2022</p>
+        <h2><a href="/2022/09/10/cl7wmc3hi0005808o4qfublxc" title="如何上外网" class="posttitle">如何上外网</a></h2>
+        <p class="summary">概述为什么很多国外网站在国内上不了因为有防火长城（也就是俗称的墙）的存在防火长城的目的说是为了防止反共势力
+那么要...</p>
     </div>
     
 </div>
 
-
+    <div id="primary">
+        
     </div>
+    
 </div>
+<div id="preview"></div>
+
+
+
 </body>
 
 <script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
