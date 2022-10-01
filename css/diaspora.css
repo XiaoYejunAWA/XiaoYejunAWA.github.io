@@ -1263,12 +1263,12 @@ h1.title {
 
 .content a {
   background: transparent;
-  color: #1980e6;
+  color: #c04bc6;
   text-decoration: none;
 }
 
 .content a:hover {
-  color: #518dca;
+  color: #da45ad;
 }
 
 .content hr {
