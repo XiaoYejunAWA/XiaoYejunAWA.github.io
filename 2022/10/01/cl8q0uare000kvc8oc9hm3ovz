@@ -5,15 +5,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>葬梦-葬梦-堕落 - 小叶君Starry</title>
+    <title>数据结构与算法基础P1导言和堆、栈、队列 - 小叶君Starry</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君,"> 
-    <meta name="description" content="小叶君的博客,
-“郁娇，让自己无助，等待拯救”
-
-"> 
+    <meta name="description" content="小叶君的博客,导言“教学相长也”
+所以在这里会讲一下我对于我所学内容的理解，希望可以帮助大家
+我现在是数竟和信奥同时参加，但可能是数竟为主，信奥为辅（毕竟 三位一体之类的没有信息
+但自己还是比较喜欢信息的，自己也,"> 
     <meta name="author" content="Starry"> 
     <link rel="alternative" href="atom.xml" title="小叶君Starry" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -33,7 +33,7 @@
     <div class="bar" style="width: 0;"></div>
     <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://xiaoyejunawa.github.io"></a>
     <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">葬梦-葬梦-堕落</h3>
+    <h3 class="subtitle">数据结构与算法基础P1导言和堆、栈、队列</h3>
     <div class="social">
         <div>
             <div class="share">
@@ -48,18 +48,23 @@
     <div class="section">
         <div class="article">
     <div class='main'>
-        <h1 class="title">葬梦-葬梦-堕落</h1>
+        <h1 class="title">数据结构与算法基础P1导言和堆、栈、队列</h1>
         <div class="stuff">
             <span>十月 01, 2022</span>
             
-  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/%E8%91%AC%E6%A2%A6/" rel="tag">葬梦</a></li></ul>
+  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/" rel="tag">数据结构与算法</a></li></ul>
 
 
         </div>
         <div class="content markdown">
-            <blockquote>
-<p>“郁娇，让自己无助，等待拯救”</p>
-</blockquote>
+            <h2 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h2><p>“教学相长也”</p>
+<p>所以在这里会讲一下我对于我所学内容的理解，希望可以帮助大家</p>
+<p>我现在是数竟和信奥同时参加，但可能是数竟为主，信奥为辅（毕竟 三位一体之类的没有信息</p>
+<p>但自己还是比较喜欢信息的，自己也在研读《算法导论》</p>
+<h2 id="数据结构与算法"><a href="#数据结构与算法" class="headerlink" title="数据结构与算法"></a>数据结构与算法</h2><p>虽然计算机的速度很快，但不是无限快的，所以需要数据结构与算法进行优化。如直接搜索和二分搜索。</p>
+<h2 id="堆"><a href="#堆" class="headerlink" title="堆"></a>堆</h2><p>在介绍堆之前，要介绍一种结构，叫做树。</p>
+<h2 id="栈"><a href="#栈" class="headerlink" title="栈"></a>栈</h2><h2 id="队列"><a href="#队列" class="headerlink" title="队列"></a>队列</h2><p>（有空会出一系列视频，然后这个作为视频的文档/笔记，）</p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr447000emk8oe4nxe20j">目录</a></p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">

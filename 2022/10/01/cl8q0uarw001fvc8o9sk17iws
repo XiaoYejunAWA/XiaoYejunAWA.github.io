@@ -5,14 +5,24 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>葬梦-破脓-执行 - 小叶君Starry</title>
+    <title>葬梦目录 - 小叶君Starry</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君,"> 
-    <meta name="description" content="小叶君的博客,
-“人们的有些快乐建立于别人的痛苦之上”
-
+    <meta name="description" content="小叶君的博客,序
+破脓-真理
+破脓-公平
+破脓-正义
+破脓-执行
+制棺-朽木
+制棺-新芽
+制棺-桎梏
+制棺-星光
+葬梦-天明
+葬梦-祓濯
+葬梦-堕落
+葬梦-萤火
 "> 
     <meta name="author" content="Starry"> 
     <link rel="alternative" href="atom.xml" title="小叶君Starry" type="application/atom+xml"> 
@@ -33,7 +43,7 @@
     <div class="bar" style="width: 0;"></div>
     <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://xiaoyejunawa.github.io"></a>
     <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">葬梦-破脓-执行</h3>
+    <h3 class="subtitle">葬梦目录</h3>
     <div class="social">
         <div>
             <div class="share">
@@ -48,7 +58,7 @@
     <div class="section">
         <div class="article">
     <div class='main'>
-        <h1 class="title">葬梦-破脓-执行</h1>
+        <h1 class="title">葬梦目录</h1>
         <div class="stuff">
             <span>十月 01, 2022</span>
             
@@ -57,9 +67,19 @@
 
         </div>
         <div class="content markdown">
-            <blockquote>
-<p>“人们的有些快乐建立于别人的痛苦之上”</p>
-</blockquote>
+            <p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44n0014mk8o72pp6kdr">序</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44e000smk8o9xpj5ry3">破脓-真理</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44b000mmk8o98qe9hi6">破脓-公平</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44d000qmk8o5cyk18q9">破脓-正义</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44c000omk8oarcd0pn6">破脓-执行</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr449000imk8oh554b5m6">制棺-朽木</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr446000dmk8oflrs7kpk">制棺-新芽</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44a000kmk8o8ftne6tx">制棺-桎梏</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr448000gmk8ohnpf9v49">制棺-星光</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44l000zmk8o3v1la748">葬梦-天明</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44e000umk8ocouw5jys">葬梦-祓濯</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44k000xmk8o4w4ed1oi">葬梦-堕落</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44m0012mk8ocfam29a2">葬梦-萤火</a></p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">

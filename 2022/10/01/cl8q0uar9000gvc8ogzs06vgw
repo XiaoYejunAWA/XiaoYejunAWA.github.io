@@ -5,14 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>葬梦-制棺-朽木 - 小叶君Starry</title>
+    <title>夕晖残响目录 - 小叶君Starry</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君,"> 
-    <meta name="description" content="小叶君的博客,
-“我本可以忍受黑暗，如果我不曾见到太阳”——狄金森
-
+    <meta name="description" content="小叶君的博客,前言
+第一章
 "> 
     <meta name="author" content="Starry"> 
     <link rel="alternative" href="atom.xml" title="小叶君Starry" type="application/atom+xml"> 
@@ -33,7 +32,7 @@
     <div class="bar" style="width: 0;"></div>
     <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://xiaoyejunawa.github.io"></a>
     <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">葬梦-制棺-朽木</h3>
+    <h3 class="subtitle">夕晖残响目录</h3>
     <div class="social">
         <div>
             <div class="share">
@@ -48,18 +47,17 @@
     <div class="section">
         <div class="article">
     <div class='main'>
-        <h1 class="title">葬梦-制棺-朽木</h1>
+        <h1 class="title">夕晖残响目录</h1>
         <div class="stuff">
             <span>十月 01, 2022</span>
             
-  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/%E8%91%AC%E6%A2%A6/" rel="tag">葬梦</a></li></ul>
+  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/%E5%A4%95%E6%99%96%E6%AE%8B%E5%93%8D/" rel="tag">夕晖残响</a></li></ul>
 
 
         </div>
         <div class="content markdown">
-            <blockquote>
-<p>“我本可以忍受黑暗，如果我不曾见到太阳”——狄金森</p>
-</blockquote>
+            <p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr43z0005mk8oacy0ben4">前言</a></p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr43v0003mk8ofdemaww9">第一章</a></p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">

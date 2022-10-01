@@ -5,14 +5,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>葬梦-制棺-星光 - 小叶君Starry</title>
+    <title>葬梦-破脓-正义 - 小叶君Starry</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate" />
     <meta name="keywords" content="小叶君,"> 
     <meta name="description" content="小叶君的博客,
-“上善若水，水善利万物而不争，处众人之所恶，故几于道。”——老子
+“数量即是正义”——《乌合之众》
 
+目录
 "> 
     <meta name="author" content="Starry"> 
     <link rel="alternative" href="atom.xml" title="小叶君Starry" type="application/atom+xml"> 
@@ -33,7 +34,7 @@
     <div class="bar" style="width: 0;"></div>
     <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://xiaoyejunawa.github.io"></a>
     <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">葬梦-制棺-星光</h3>
+    <h3 class="subtitle">葬梦-破脓-正义</h3>
     <div class="social">
         <div>
             <div class="share">
@@ -48,7 +49,7 @@
     <div class="section">
         <div class="article">
     <div class='main'>
-        <h1 class="title">葬梦-制棺-星光</h1>
+        <h1 class="title">葬梦-破脓-正义</h1>
         <div class="stuff">
             <span>十月 01, 2022</span>
             
@@ -58,8 +59,9 @@
         </div>
         <div class="content markdown">
             <blockquote>
-<p>“上善若水，水善利万物而不争，处众人之所恶，故几于道。”——老子</p>
+<p>“数量即是正义”——《乌合之众》</p>
 </blockquote>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr44o0017mk8o2lmz26mc">目录</a></p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
