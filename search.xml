@@ -10,6 +10,80 @@
 ]]></content>
   </entry>
   <entry>
+    <title>page转移到vercelcel?</title>
+    <url>/2022/10/05/githubpage%E8%BD%AC%E7%A7%BB%E5%88%B0vercel/</url>
+    <content><![CDATA[<p>注册vercel<br>然后新建项目<br>从github导入<br>导入已经建设成功的github page项目<br>然后直接点创建就可以了<br>那里有个项目类型，不要点hexo<br>就一开始默认的other就可以了</p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《屠龙记》笔记</title>
+    <url>/2022/10/30/%E3%80%8A%E5%B1%A0%E9%BE%99%E8%AE%B0%E3%80%8B%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h3 id="边玩边学"><a href="#边玩边学" class="headerlink" title="边玩边学"></a>边玩边学</h3><p>1.游戏日志：记录玩游戏的感想，最好边玩边记<br>2.BoardGame：玩一个新的桌游，并注意：规则，障碍，奖励、挫折，结构<br>3.玩一个电子游戏：描述游戏世界、故事情节、游戏玩法与感想</p>
+<h3 id="游戏里有什么"><a href="#游戏里有什么" class="headerlink" title="游戏里有什么"></a>游戏里有什么</h3><p>游戏的定义：<br>Sid Meier(Civilization设计师)：游戏是一系列有趣的决定<br>Ludology 学家 Jesper Juul：游戏是一个以规则为基础的系统，结果是可变的、可计量的，不同的结果被赋予了不同的价值观。为了对结果产生影响，玩家会付出努力，并在情感上依赖于结果。游戏的结果是可协商的。<br>Anna Anthropy(The Best):由规则创造的体验</p>
+<p>游戏的内容：</p>
+<h4 id="目标和障碍"><a href="#目标和障碍" class="headerlink" title="目标和障碍"></a>目标和障碍</h4><p>任何形式的戏剧艺术都必须有障碍和冲突<br>就像奥德修斯用Google地图的话就会无趣很多</p>
+<h4 id="角色"><a href="#角色" class="headerlink" title="角色"></a>角色</h4><p>Player与NPC</p>
+<h4 id="背景（游戏世界）"><a href="#背景（游戏世界）" class="headerlink" title="背景（游戏世界）"></a>背景（游戏世界）</h4><p>为玩家创造沉浸式体验的第一步</p>
+<h4 id="竞赛"><a href="#竞赛" class="headerlink" title="竞赛"></a>竞赛</h4><h4 id="规则（The-most-important）"><a href="#规则（The-most-important）" class="headerlink" title="规则（The most important）"></a>规则（The most important）</h4><h4 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h4><p>游戏机制是玩家在游戏中可采取的行动<br>如在某个场景会做什么<br>做什么有难度，做什么太简单、无聊？<br>常见游戏机制：</p>
+<h5 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h5><p>跑？跳？蹲？</p>
+<h5 id="探索"><a href="#探索" class="headerlink" title="探索"></a>探索</h5><p>寻找？收集？采集？躲藏？</p>
+<h5 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h5><p>管理？策略制定？选择？</p>
+<h5 id="战斗"><a href="#战斗" class="headerlink" title="战斗"></a>战斗</h5><p>……</p>
+<h4 id="HomeWork"><a href="#HomeWork" class="headerlink" title="HomeWork"></a>HomeWork</h4><p>设计一个桌游</p>
+<h3 id="游戏需要故事吗"><a href="#游戏需要故事吗" class="headerlink" title="游戏需要故事吗"></a>游戏需要故事吗</h3><p>故事很重要<br>Especially RPG GAME<br>But 对俄罗斯方块之类的游戏来说并不重要</p>
+<h4 id="沉浸感"><a href="#沉浸感" class="headerlink" title="沉浸感"></a>沉浸感</h4><p>目标：最大程度的融合故事与玩法</p>
+<h4 id="故事≠情节"><a href="#故事≠情节" class="headerlink" title="故事≠情节"></a>故事≠情节</h4><p>故事更多是构建世界而非情节创作</p>
+<h4 id="故事"><a href="#故事" class="headerlink" title="故事"></a>故事</h4><p>主角+目标+冲突+障碍+【结局】=故事</p>
+<h4 id="可关注的内容"><a href="#可关注的内容" class="headerlink" title="可关注的内容"></a>可关注的内容</h4><p>游戏网站<br><a href="Bluesnews.com">Bluesnews.com</a><br><a href="Gamasutra">Gamasutra</a><br><a href="Gametrailers.com">Gametrailers.com</a><br><a href="%5BKillScreenDaily.com">KillScreenDaily.com</a><br><a href="Kotaku.com">Kotaku.com</a><br><a href="PocketGamer.co.uk">PocketGamer.co.uk</a><br><a href="Polygon.com">Polygon.com</a><br><a href="RetroGamer.net">RetroGamer.net</a></p>
+<p><a href="gdcbault.com">GDC Vault</a></p>
+<h3 id="亚里士多德vs-马里奥"><a href="#亚里士多德vs-马里奥" class="headerlink" title="亚里士多德vs.马里奥"></a>亚里士多德vs.马里奥</h3><p>亚里士多德：作者定义的故事<br>马里奥：玩家定义的故事<br>亚里士多德：三幕式结构<br>马里奥：Ad Hoc结构<br>亚里士多德：有限的时长<br>马里奥：有无限的时长吗<br>亚里士多德：观众在倾听<br>马里奥：等等，什么？</p>
+<h4 id="HomeWork3"><a href="#HomeWork3" class="headerlink" title="HomeWork3"></a>HomeWork3</h4><p>观看游戏电影（如Youtube search game movie<br>GameFly.com</p>
+<h3 id="电子游戏的无幕式结构"><a href="#电子游戏的无幕式结构" class="headerlink" title="电子游戏的无幕式结构"></a>电子游戏的无幕式结构</h3><p>To Be Continue…</p>
+]]></content>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>万叶集的摘录</title>
+    <url>/2022/09/12/%E4%B8%87%E5%8F%B6%E9%9B%86%E7%9A%84%E6%91%98%E5%BD%95/</url>
+    <content><![CDATA[<p>1.人言，瞿麦开又落；该不是那棵野花，我曾标识过。<br>2.今朝黎明，闻鹤唳；春日山上，许是红叶遍，心悲戚。<br>3.早熟花开，甚是多见；怎如晚开者，心儿久且坚。<br>4.胡枝子花将残；不插髪间饰，难道，只徒还。<br>5.秋来到，芒上露珠消去；想到，我也离人世。<br>6.身入引马野，榛原尽染；愿使衣着色，可作旅证看。<br>7.离开明日香，别了故垣；从此君住处，望不见。<br>8.晚秋雨，似水流；凄苦生心底，频添烦忧。<br>9.恋情竟然苦若斯；何如高山上，头枕岩石死。<br>10.葛花空自开，不结果实；孰此为恋，我却心迷。<br>11.树如葛无果，当有神附；树树无实，都缘神故。<br>12.你我相伴，路行尚难；而今如何去，茕茕越秋山。<br>13.君曾言，莫思念。如知此番几时逢，怎会心眷恋。<br>14.棣棠花黄，映山泉；欲去汲清水，不知路在哪边。<br>15.明日香河，若设堰水栅，塞之，水流缓。<br>16.去年秋夜月，光照依然；阿妹曾同看，如今，离去年年。<br>17.高圆野边，胡枝子花；徒自开又散，竟无人观看。<br>18.三笠山边路，茂草遍布；为时尚未久，竟如许荒芜。<br>19.高圆野胡枝子花，切勿凋敝；见花，可将君怀念。<br>20.何时，变得如此苍古？香具山上杉根，有青苔生出。<br>21.淡海晚潮生，千鸟鸣，心潮动，怀古幽情。<br>22.鼯寻嫩枝头，偏遇 山中猎手。<br>23.真野榛原有白菅；来来往往，唯君独看，真野榛原。<br>24.势山松杉叶美，匆匆过；未能悠然欣赏，此心，叶当晓得。<br>25.东市植树，已冒垂；至今久久不相会，自应相思最。<br>26.盛年不再，倏忽此生；京城奈良，不见而终。<br>27.曾到，这般时候；君尚问，胡枝子花开否？<br>28.恋君留无计，犹如苇中鹤，朝夕，放声啼。<br>29.尘事无常，相乐山 素来无缘，如今，一见心牵。<br>30.鸭趾草，变色易；或因心有变，伊人无消息。<br>31.尝有所思，斯世如磐；孰料浮世事，留驻难。<br>32.人世间，恋情频发，苦有加——何如做梅花。<br>33.梅花梦中告语：吾乃风流花，自应浮在酒杯。<br>34.素常见君如镜明；却在阿婆野，作为 花橘之珠迎奉。<br>35.岩上清流迸去；瀑布处，蕨菜抽芽，应是春来住。<br>36.棣棠花开野地；这场春雨，如意草，却得峥嵘期。<br>37.杜鹃莫尽啼；直至将汝声，缝进五月香囊里。<br>38.素来，杜鹃声可闻；莫非秋风起，胡枝子花开，才少了啼音。<br>39.五月花橘，为君药袋系；只为花空落，太可惜。<br>40.秋山树上红叶，如今萧萧落；更盼 秋能重过。<br>41.露压胡枝子，枝弯，消则任其消，不将面色显。<br>42.世事，无定数；春花才零落，即有必死悟。<br>43.紫阳花重重开，少年万载莫败；见之思兄台。<br>44.君作馈赠，手植瞿麦；吾岂只自为，访花而来。<br>45.峰峰多山茶；君手移栽此处存，看不厌，浑似君。<br>46.树木纵不语，春花开放，秋来红叶落；本是无常果。<br>47.得暇渡水去；将对面山峰，樱花折取。<br>48.中伤人言多，如垣围隔；多日不相逢，累月已过。<br>49.万物皆贵新；但只是，人以故旧亲。<br>50.春野霞缭绕，花开如此盛；竟与君，不相逢？<br>51.如今，君莫归；春雨心有意，人非不知悉。<br>52.春雨，衣衫湿透；如果降七日，七日就不来？<br>53.为惜水晶花飘散；进野地，又入山，杜鹃，高鸣不断。<br>54.夏野葛，蔓延繁茂；如此恋下去，我命确难保。<br>55.憎我也无妨，就连屋前花橘，亦不来观赏？<br>56.隐恋避人眼；莫如瞿麦开出花，日日相见。<br>57.只冷眼看，即惹人恋；不必如同红花，露色呈当面。<br>58.夏草露沾衣；我并未穿，袖却无时干。<br>59.我自太空来；因汝之故，天河一路，费辛苦。<br>60.壮志心，无影踪；难道只宜，沉潜胡枝子情。<br>66.为君漫不经心去；朝朝相思苦，虽不为重聚。<br>67.春日永，霞漫天；山路尽头不知处，一路相思牵。<br>68.我思君，如天上日月；君却日日老矣，令人惋惜。<br>69.君不如此思我；当初宜作天外云，如同陌路人。<br>70.秋来霜降，树木无奈何；京城山谷，想必已着色。<br>71.看岩上，樟根伸四方；似年深月久，已具神相。<br>72.杜鹃振羽啼，羽触花落；藤波花似乎 盛时已过。<br>73.隐隐雷神动 约约闻其声 霾霾天之空 零零雨若至 戚戚君将留<br>隐隐雷神动 约约闻其声 零零雨未至 恋恋吾亦留 悠悠共吾生<br>74.花开千百遍，无已恋君时<br>鸣神の 少しとよみて さし昙り 雨も降らんか 君を留めん<br>鸣神の 少しとよみて 降らずとも 我は止まらん 妹し留めば</p>
+]]></content>
+      <tags>
+        <tag>摘录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo博客切换界面会下载文件怎么办？hexo踩坑。</title>
+    <url>/2022/10/05/hexo%E5%8D%9A%E5%AE%A2%E5%88%87%E6%8D%A2%E7%95%8C%E9%9D%A2%E4%BC%9A%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9Fhexo%E8%B8%A9%E5%9D%91%E3%80%82/</url>
+    <content><![CDATA[<p>应该是更改了配置文件下那个网页名称设置<br>只需要将_config.yml文件（不是主题的，是外面的那个）中的permalink后的那串东西的结尾加上/<br>然后，就可以了</p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于电子游戏艺术性的理解</title>
+    <url>/2022/09/13/%E5%85%B3%E4%BA%8E%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E8%89%BA%E6%9C%AF%E6%80%A7%E7%9A%84%E7%90%86%E8%A7%A3/</url>
+    <content><![CDATA[<h3 id="艺术是什么？"><a href="#艺术是什么？" class="headerlink" title="艺术是什么？"></a>艺术是什么？</h3><blockquote>
+<p>指凭借技巧、意愿、想象力、经验等综合人为因素的融合与平衡，以创作隐含美学的器物、环境、影像、动作或声音的表达模式，也指和他人分享美的感觉或有深意的情感与意识的人类用以表达既有感知且将个人或群体体验沉淀与展现的过程 ——wiki</p>
+</blockquote>
+<p>综上所述，电子游戏(Video Game 以下简称游戏)显然是属于艺术<br>它有自己的美学，也能传达很多“情感”、“感知”</p>
+<h3 id="类比"><a href="#类比" class="headerlink" title="类比"></a>类比</h3><p>从另一方面考虑,游戏是一个综合的艺术<br>如果仔细观察九大艺术<br>可以发现部分艺术是由其他艺术组成的</p>
+<blockquote>
+<p>在建筑、音乐、绘画、雕塑、诗和舞蹈这六种艺术中，建筑和音乐是主要的；绘画和雕塑是对建筑的补充；而诗和舞蹈则融化于音乐之中。——卡努杜<br>而游戏也是如此<br>我们很容易在游戏中发掘其他艺术的影子，从文学到绘画到音乐<br>这也充分证明了游戏可以作为一种艺术</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>可达成的乌托邦与可成为的上帝</title>
     <url>/2022/10/01/%E5%8F%AF%E8%BE%BE%E6%88%90%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6%E4%B8%8E%E5%8F%AF%E6%88%90%E4%B8%BA%E7%9A%84%E4%B8%8A%E5%B8%9D/</url>
     <content><![CDATA[<h2 id="乌托邦"><a href="#乌托邦" class="headerlink" title="乌托邦"></a>乌托邦</h2><p>乌托邦世界由莫尔提出的理想社会，意译是 “空想的国家” “不存在的地方”</p>
@@ -38,26 +112,8 @@
       </tags>
   </entry>
   <entry>
-    <title>命运、拉普拉斯妖与时间线面</title>
-    <url>/2022/10/01/%E5%91%BD%E8%BF%90%E3%80%81%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E5%A6%96%E4%B8%8E%E6%97%B6%E9%97%B4%E7%BA%BF%E9%9D%A2/</url>
-    <content><![CDATA[<h2 id="推荐先阅读-可达成的乌托邦与可成为的上帝-、-基于《可达成的乌托邦》对于世界的思考"><a href="#推荐先阅读-可达成的乌托邦与可成为的上帝-、-基于《可达成的乌托邦》对于世界的思考" class="headerlink" title="推荐先阅读 可达成的乌托邦与可成为的上帝 、 基于《可达成的乌托邦》对于世界的思考"></a>推荐先阅读 可达成的乌托邦与可成为的上帝 、 基于《可达成的乌托邦》对于世界的思考</h2><p>世界是确定的吗？<br>命运是注定的吗？</p>
-<hr>
-<h2 id="拉普拉斯妖是什么"><a href="#拉普拉斯妖是什么" class="headerlink" title="拉普拉斯妖是什么"></a>拉普拉斯妖是什么</h2><p>这是由拉普拉斯提出的，可以能够使用牛顿定律来展现宇宙事件的整个过程，过去以及未来的生物</p>
-<p>这个观点遭到很多人的反驳<br>如 Robert Ulanowicz 在他的《Growth and Development》（1986）一书指出19世纪物理学的不可逆过程、熵、及热力学第二定律已经使得拉普拉斯妖成为不可能<br>加上量子力学以及不确定性原理<br>这个假说是一定不成立的</p>
-<h2 id="止步于此？"><a href="#止步于此？" class="headerlink" title="止步于此？"></a>止步于此？</h2><p>显然，我们不可能止步于此<br>对拉普拉斯妖的概念进行拓展<br>我们假设拉普拉斯妖并不是我们这个世界的产物，也就是上位世界的产物</p>
-<p>也就是说它有着高于这个世界的运算能力，以及能够参透量子的随机性的能力<br>这样的话知道宇宙的一切就相当合理了毕竟这个世界是由他们创造的，或许量子的不确定性就是他们的伪随机，但对于同一个随机种子来说，随机是注定的<br>也就是我们的命运是注定的</p>
-<p>上位世界可以看到我们的时间线</p>
-<h2 id="不定的命运"><a href="#不定的命运" class="headerlink" title="不定的命运"></a>不定的命运</h2><p>对于每一个世界，只有它的上位世界（也可以是上位世界的上位世界……）可以知晓他的命运<br>也就是世界不可能在不借助上位世界的情况下知道自己的命运<br>但是如果有上位世界的干扰，那么对于上位世界来说我们就是不确定的，但对于上位世界的上位世界来说又是注定的，除非有上位世界的上位世界的干扰<br>这是命运的不确定性的唯一可能了</p>
-<h2 id="时间线与时间面"><a href="#时间线与时间面" class="headerlink" title="时间线与时间面"></a>时间线与时间面</h2><p>如果上位个体的随机是没有随机种子的，那他们还能知道我们的命运吗？<br>还是可以的。<br>前文说过，他们可以通过随机种子及其结果知道我们的时间线，那么如果他们也不知道随机结果，但可以列出每一种随机结果，将大量的时间线组成时间面，我们的命运还是可知的，只要他们想知道</p>
-<h2 id="命运而非命运"><a href="#命运而非命运" class="headerlink" title="命运而非命运"></a>命运而非命运</h2><p>但是不必担心<br>我们又不知道我们自己的命运<br>所以，还是好好活着吧</p>
-]]></content>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于名字的来源</title>
-    <url>/2022/09/11/%E5%85%B3%E4%BA%8E%E5%90%8D%E5%AD%97%E7%9A%84%E6%9D%A5%E6%BA%90/</url>
+    <title>关于我为什么有这么一个降智的网名这档事</title>
+    <url>/2022/09/11/%E5%85%B3%E4%BA%8E%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E9%99%8D%E6%99%BA%E7%9A%84%E7%BD%91%E5%90%8D%E8%BF%99%E6%A1%A3%E4%BA%8B/</url>
     <content><![CDATA[<p>之前有人问我为什么选个这么降智的网名<br>嘶~<br>其实我也觉得挺降智的</p>
 <p>就随便发篇文章讲讲起源和为什么不更换吧</p>
 <h3 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h3><p>挺小的时候，大概两三年级的时候就想做个up主了<br>当时录mc模组生存视频，想好要做什么、说什么了<br>结果一开录，什么都忘了<br>后面几次也差不多<br>然后小学做up主失败了<br>毕竟那时候只有暑假能碰到电脑<br>大概四五年级的时候就沉迷于mc和ow无法自拔了<br>所以直到初中才开始继续做</p>
@@ -94,6 +150,32 @@
       </tags>
   </entry>
   <entry>
+    <title>各种领域搜集的电子书分享</title>
+    <url>/2022/10/05/%E5%90%84%E7%A7%8D%E9%A2%86%E5%9F%9F%E6%90%9C%E9%9B%86%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>命运、拉普拉斯妖与时间线面</title>
+    <url>/2022/10/01/%E5%91%BD%E8%BF%90%E3%80%81%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E5%A6%96%E4%B8%8E%E6%97%B6%E9%97%B4%E7%BA%BF%E9%9D%A2/</url>
+    <content><![CDATA[<h2 id="推荐先阅读-可达成的乌托邦与可成为的上帝-、-基于《可达成的乌托邦》对于世界的思考"><a href="#推荐先阅读-可达成的乌托邦与可成为的上帝-、-基于《可达成的乌托邦》对于世界的思考" class="headerlink" title="推荐先阅读 可达成的乌托邦与可成为的上帝 、 基于《可达成的乌托邦》对于世界的思考"></a>推荐先阅读 可达成的乌托邦与可成为的上帝 、 基于《可达成的乌托邦》对于世界的思考</h2><p>世界是确定的吗？<br>命运是注定的吗？</p>
+<hr>
+<h2 id="拉普拉斯妖是什么"><a href="#拉普拉斯妖是什么" class="headerlink" title="拉普拉斯妖是什么"></a>拉普拉斯妖是什么</h2><p>这是由拉普拉斯提出的，可以能够使用牛顿定律来展现宇宙事件的整个过程，过去以及未来的生物</p>
+<p>这个观点遭到很多人的反驳<br>如 Robert Ulanowicz 在他的《Growth and Development》（1986）一书指出19世纪物理学的不可逆过程、熵、及热力学第二定律已经使得拉普拉斯妖成为不可能<br>加上量子力学以及不确定性原理<br>这个假说是一定不成立的</p>
+<h2 id="止步于此？"><a href="#止步于此？" class="headerlink" title="止步于此？"></a>止步于此？</h2><p>显然，我们不可能止步于此<br>对拉普拉斯妖的概念进行拓展<br>我们假设拉普拉斯妖并不是我们这个世界的产物，也就是上位世界的产物</p>
+<p>也就是说它有着高于这个世界的运算能力，以及能够参透量子的随机性的能力<br>这样的话知道宇宙的一切就相当合理了毕竟这个世界是由他们创造的，或许量子的不确定性就是他们的伪随机，但对于同一个随机种子来说，随机是注定的<br>也就是我们的命运是注定的</p>
+<p>上位世界可以看到我们的时间线</p>
+<h2 id="不定的命运"><a href="#不定的命运" class="headerlink" title="不定的命运"></a>不定的命运</h2><p>对于每一个世界，只有它的上位世界（也可以是上位世界的上位世界……）可以知晓他的命运<br>也就是世界不可能在不借助上位世界的情况下知道自己的命运<br>但是如果有上位世界的干扰，那么对于上位世界来说我们就是不确定的，但对于上位世界的上位世界来说又是注定的，除非有上位世界的上位世界的干扰<br>这是命运的不确定性的唯一可能了</p>
+<h2 id="时间线与时间面"><a href="#时间线与时间面" class="headerlink" title="时间线与时间面"></a>时间线与时间面</h2><p>如果上位个体的随机是没有随机种子的，那他们还能知道我们的命运吗？<br>还是可以的。<br>前文说过，他们可以通过随机种子及其结果知道我们的时间线，那么如果他们也不知道随机结果，但可以列出每一种随机结果，将大量的时间线组成时间面，我们的命运还是可知的，只要他们想知道</p>
+<h2 id="命运而非命运"><a href="#命运而非命运" class="headerlink" title="命运而非命运"></a>命运而非命运</h2><p>但是不必担心<br>我们又不知道我们自己的命运<br>所以，还是好好活着吧</p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于《可达成的乌托邦》对于世界的思考</title>
     <url>/2022/10/01/%E5%9F%BA%E4%BA%8E%E3%80%8A%E5%8F%AF%E8%BE%BE%E6%88%90%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6%E3%80%8B%E5%AF%B9%E4%BA%8E%E4%B8%96%E7%95%8C%E7%9A%84%E6%80%9D%E8%80%83/</url>
     <content><![CDATA[<p>本文约定，上文的“人”成为下位世界个体<br>“上帝”为上位世界个体<br>上位与下位是相对的</p>
@@ -105,6 +187,18 @@
 ]]></content>
       <tags>
         <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>摘录</title>
+    <url>/2022/07/20/%E6%91%98%E5%BD%95/</url>
+    <content><![CDATA[<p>一个人的一生会经历三次成长<br>第一次，是明白事情的对错<br>第二次，是明白有些事不只有对与错<br>第三次，是在明白有些事没有对与错之后，依然坚定地去做自己相信的事，并为之负起责任</p>
+<p>真正可怕的，并不是这个世界夺走了多少人的性命，而是它让多少人对失去生命这件事，习以为常</p>
+<p>当流星划过天际，人们纷纷许下愿望，只因他的光芒如此耀眼。但那颗星星也曾迷失方向，在夜色中踽踽独行。可他依然在飞，努力飞过这片冰冷孤寂的长夜。这是属于他的故事。是一颗流星，拂晓的旅途</p>
+<p>以此薪炎灼烁，我身为炬，赴真红之永燃<br>以此剑光执握，煌星破晓，引鸣雷之炽响<br>以此炎轮御驾，焰驱天道，转真理之回环<br>以此余火铭记，尘渡千年，唤镌翎之新生<br>以此颂诗存护，繁星熠煜，绽暮光之祈祝<br>愿 希望不熄，薪火永燃</p>
+]]></content>
+      <tags>
+        <tag>摘录</tag>
       </tags>
   </entry>
   <entry>
@@ -131,28 +225,21 @@
 <h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>大概就这些了<br>有了梯子<br>你就可以<br>上youtube<br>上pixiv<br>上prouhub<br>上Netflix<br>……<br>但是<br>不要聊政治！</p>
 ]]></content>
       <tags>
-        <tag>资源分享</tag>
+        <tag>分享</tag>
       </tags>
   </entry>
   <entry>
-    <title>数据结构与算法基础P1导言和堆、栈、队列</title>
-    <url>/2022/10/01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80P1%E5%AF%BC%E8%A8%80%E5%92%8C%E5%A0%86%E3%80%81%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/</url>
-    <content><![CDATA[<h2 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h2><p>“教学相长也”</p>
-<p>所以在这里会讲一下我对于我所学内容的理解，希望可以帮助大家</p>
-<p>我现在是数竟和信奥同时参加，但可能是数竟为主，信奥为辅（毕竟 三位一体之类的没有信息</p>
-<p>但自己还是比较喜欢信息的，自己也在研读《算法导论》</p>
-<h2 id="数据结构与算法"><a href="#数据结构与算法" class="headerlink" title="数据结构与算法"></a>数据结构与算法</h2><p>虽然计算机的速度很快，但不是无限快的，所以需要数据结构与算法进行优化。如直接搜索和二分搜索。</p>
-<h2 id="堆"><a href="#堆" class="headerlink" title="堆"></a>堆</h2><p>在介绍堆之前，要介绍一种结构，叫做树。</p>
-<h2 id="栈"><a href="#栈" class="headerlink" title="栈"></a>栈</h2><h2 id="队列"><a href="#队列" class="headerlink" title="队列"></a>队列</h2><p>（有空会出一系列视频，然后这个作为视频的文档/笔记，）</p>
-<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr447000emk8oe4nxe20j">目录</a></p>
+    <title>摘录1</title>
+    <url>/2022/08/11/%E6%91%98%E5%BD%951/</url>
+    <content><![CDATA[<p>欲将心事付瑶琴，知音少，断弦有谁听？——岳飞<br>筵席已散，众人已走远，而你在众人之中，暮色深浓，无法在辨认，不会再相逢。——席慕容<br>我什么也没忘，但是有些事只适合收藏。不能说，也不能想，却又不能忘。——史铁生<br>没有朋友多孤独啊,有了也一样。——笑场<br>这个时代真的，没有精致的五官谁闲的去了解你的三观<br>“怎样算欺凌？”“十人欺负一人算欺凌。百人欺负一人也是”“那么一万个人呢？”“是正义啊”<br>你是在拜佛，还是在拜自己的欲望？<br>是啊，我就一直被孤立，但我无所谓，不在乎外界一切的变化，最后还不是成绩好。同学还有这个世界嘛，身外之物，是我偶然来到这个世上遇到的东西，也就是我的存在与任何人无关。他人对我的指点，不就是自然界的风雨亦或暴雨，这是自然，必定会发生改变不了他人的，外界施加的一切，我不去抵挡，挡不住的，顺其自然，他想怎样就怎样，我如水，随其波动，但不会被破坏，就像在暴雨里，任其风雨瓢泼，打在我身上，但我却不在意，刀割在我身上，任其痛，但我不认为那叫痛，全然放松，痛也就没了。<br>夏虫不可语于冰。——庄子</p>
 ]]></content>
       <tags>
-        <tag>数据结构与算法</tag>
+        <tag>摘录</tag>
       </tags>
   </entry>
   <entry>
-    <title>摘录精选1</title>
-    <url>/2022/10/01/%E6%91%98%E5%BD%95%E7%B2%BE%E9%80%891/</url>
+    <title>摘录2</title>
+    <url>/2022/10/01/%E6%91%98%E5%BD%952/</url>
     <content><![CDATA[<p>我讨厌温柔的女孩子。温柔的女孩子其实对所有人都温柔，我却会误以为只对我温柔， 然后就沾沾自喜得意忘形，最后闹得不欢而散，双方都受到伤害。–所以我才讨厌温柔的女孩子。 –大老师</p>
 <p>孤独的人不会伤害别人，只会不断地伤害自己罢了。 –大老师</p>
 <p>行动被评价和人格被评价完全是两码事。就像不能根据仅仅一次的善行就把那个人判定为善人 –大老师</p>
@@ -194,12 +281,57 @@
       </tags>
   </entry>
   <entry>
+    <title>斯金纳箱?对于国内游戏行业现状的看法</title>
+    <url>/2022/08/02/%E6%96%AF%E9%87%91%E7%BA%B3%E7%AE%B1-%E5%AF%B9%E4%BA%8E%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构与算法基础P1导言和堆、栈、队列</title>
+    <url>/2022/10/01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80P1%E5%AF%BC%E8%A8%80%E5%92%8C%E5%A0%86%E3%80%81%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/</url>
+    <content><![CDATA[<h2 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h2><p>“教学相长也”</p>
+<p>所以在这里会讲一下我对于我所学内容的理解，希望可以帮助大家</p>
+<p>我现在是数竟和信奥同时参加，但可能是数竟为主，信奥为辅（毕竟 三位一体之类的没有信息</p>
+<p>但自己还是比较喜欢信息的，自己也在研读《算法导论》</p>
+<h2 id="数据结构与算法"><a href="#数据结构与算法" class="headerlink" title="数据结构与算法"></a>数据结构与算法</h2><p>虽然计算机的速度很快，但不是无限快的，所以需要数据结构与算法进行优化。如直接搜索和二分搜索。</p>
+<h2 id="堆"><a href="#堆" class="headerlink" title="堆"></a>堆</h2><p>在介绍堆之前，要介绍一种结构，叫做树。</p>
+<h2 id="栈"><a href="#栈" class="headerlink" title="栈"></a>栈</h2><h2 id="队列"><a href="#队列" class="headerlink" title="队列"></a>队列</h2><p>（有空会出一系列视频，然后这个作为视频的文档/笔记，）</p>
+<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr447000emk8oe4nxe20j">目录</a></p>
+]]></content>
+      <tags>
+        <tag>数据结构与算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>摘录3</title>
+    <url>/2022/10/22/%E6%91%98%E5%BD%953/</url>
+    <content><![CDATA[<p>总有一些东西，要用消失来证明珍贵。<br>我舍不得的人其实也没有舍不得我。<br>我待你和别人不同，但你始终不懂。<br>放风筝的时候，人和风筝都不自由。<br>可能被爱的时候大家都有点不识抬举。<br>所谓的遗憾，追根到底还是不甘。<br>情似孤舟甫离岸，渐行渐远渐生疏<br>词不达意，到此为止。<br>不喜欢我的话可以直接说，你想等我先提分手，无非就是想减轻自己的负罪感。<br>那不是我的月亮，但有一刻月光确实照在了我的身上<br>后来，南山的风吹散了谷堆，北海的水淹没了墓碑<br>没有人在看海，大家都在看自己破败不堪的遗憾</p>
+]]></content>
+      <tags>
+        <tag>摘录</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>数据结构与算法基础目录</title>
     <url>/2022/10/01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E7%9B%AE%E5%BD%95/</url>
     <content><![CDATA[<p><a href="https://xiaoyejunawa.github.io/2022/10/01/cl8pzr4430008mk8oadracybx">P1 导言和堆、栈、队列</a></p>
 ]]></content>
       <tags>
         <tag>数据结构与算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>翻墙后应该干什么？一些国外常用软件推荐(第一弹)</title>
+    <url>/2022/10/28/%E7%BF%BB%E5%A2%99%E5%90%8E%E5%BA%94%E8%AF%A5%E5%B9%B2%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%A4%96%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<h2 id="社交软件"><a href="#社交软件" class="headerlink" title="社交软件"></a>社交软件</h2><p>Discord 常用于游戏等，里面有屏幕分享、开黑语音等功能，也可以聊天或者学习<br>Line 类似于微信等<br>Telegram 大概是用来干奇怪的事情<br>Twitter 应该都知道<br>Facebook 应该也都知道<br>欢迎评论补充</p>
+<p>不用翻墙的软件一起推荐一下：<br>VRChat 社交游戏，可以学习语言<br>开黑吧 国内版的盗版Discord</p>
+<h2 id="视频软件"><a href="#视频软件" class="headerlink" title="视频软件"></a>视频软件</h2><p>Youtube 类似哔哩哔哩<br>NicoNico 类似以前的bilibili<br>Twitch 可以看直播<br>Netflix 可以看番</p>
+<p>其他：<br>233dm.cc<br>yhdmp.cc<br>盗版看番软件们</p>
+]]></content>
+      <tags>
+        <tag>分享</tag>
       </tags>
   </entry>
   <entry>
@@ -212,75 +344,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>page转移到vercelcel?</title>
-    <url>/2022/10/05/githubpage%E8%BD%AC%E7%A7%BB%E5%88%B0vercel/</url>
-    <content><![CDATA[<p>注册vercel<br>然后新建项目<br>从github导入<br>导入已经建设成功的github page项目<br>然后直接点创建就可以了<br>那里有个项目类型，不要点hexo<br>就一开始默认的other就可以了</p>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo博客切换界面会下载文件怎么办？hexo踩坑。</title>
-    <url>/2022/10/05/hexo%E5%8D%9A%E5%AE%A2%E5%88%87%E6%8D%A2%E7%95%8C%E9%9D%A2%E4%BC%9A%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9Fhexo%E8%B8%A9%E5%9D%91%E3%80%82/</url>
-    <content><![CDATA[<p>应该是更改了配置文件下那个网页名称设置<br>只需要将_config.yml文件（不是主题的，是外面的那个）中的permalink后的那串东西的结尾加上/<br>然后，就可以了</p>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《屠龙记》笔记</title>
-    <url>/2022/11/02/%E3%80%8A%E5%B1%A0%E9%BE%99%E8%AE%B0%E3%80%8B%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h3 id="边玩边学"><a href="#边玩边学" class="headerlink" title="边玩边学"></a>边玩边学</h3><p>1.游戏日志：记录玩游戏的感想，最好边玩边记<br>2.BoardGame：玩一个新的桌游，并注意：规则，障碍，奖励、挫折，结构<br>3.玩一个电子游戏：描述游戏世界、故事情节、游戏玩法与感想</p>
-<h3 id="游戏里有什么"><a href="#游戏里有什么" class="headerlink" title="游戏里有什么"></a>游戏里有什么</h3><p>游戏的定义：<br>Sid Meier(Civilization设计师)：游戏是一系列有趣的决定<br>Ludology 学家 Jesper Juul：游戏是一个以规则为基础的系统，结果是可变的、可计量的，不同的结果被赋予了不同的价值观。为了对结果产生影响，玩家会付出努力，并在情感上依赖于结果。游戏的结果是可协商的。<br>Anna Anthropy(The Best):由规则创造的体验</p>
-<p>游戏的内容：</p>
-<h4 id="目标和障碍"><a href="#目标和障碍" class="headerlink" title="目标和障碍"></a>目标和障碍</h4><p>任何形式的戏剧艺术都必须有障碍和冲突<br>就像奥德修斯用Google地图的话就会无趣很多</p>
-<h4 id="角色"><a href="#角色" class="headerlink" title="角色"></a>角色</h4><p>Player与NPC</p>
-<h4 id="背景（游戏世界）"><a href="#背景（游戏世界）" class="headerlink" title="背景（游戏世界）"></a>背景（游戏世界）</h4><p>为玩家创造沉浸式体验的第一步</p>
-<h4 id="竞赛"><a href="#竞赛" class="headerlink" title="竞赛"></a>竞赛</h4><h4 id="规则（The-most-important）"><a href="#规则（The-most-important）" class="headerlink" title="规则（The most important）"></a>规则（The most important）</h4><h4 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h4><p>游戏机制是玩家在游戏中可采取的行动<br>如在某个场景会做什么<br>做什么有难度，做什么太简单、无聊？<br>常见游戏机制：</p>
-<h5 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h5><p>跑？跳？蹲？</p>
-<h5 id="探索"><a href="#探索" class="headerlink" title="探索"></a>探索</h5><p>寻找？收集？采集？躲藏？</p>
-<h5 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h5><p>管理？策略制定？选择？</p>
-<h5 id="战斗"><a href="#战斗" class="headerlink" title="战斗"></a>战斗</h5><p>……</p>
-<h4 id="HomeWork"><a href="#HomeWork" class="headerlink" title="HomeWork"></a>HomeWork</h4><p>设计一个桌游</p>
-<h3 id="游戏需要故事吗"><a href="#游戏需要故事吗" class="headerlink" title="游戏需要故事吗"></a>游戏需要故事吗</h3><p>故事很重要<br>Especially RPG GAME<br>But 对俄罗斯方块之类的游戏来说并不重要</p>
-<h4 id="沉浸感"><a href="#沉浸感" class="headerlink" title="沉浸感"></a>沉浸感</h4><p>目标：最大程度的融合故事与玩法</p>
-<h4 id="故事≠情节"><a href="#故事≠情节" class="headerlink" title="故事≠情节"></a>故事≠情节</h4><p>故事更多是构建世界而非情节创作</p>
-<h4 id="故事"><a href="#故事" class="headerlink" title="故事"></a>故事</h4><p>主角+目标+冲突+障碍+【结局】=故事</p>
-<h4 id="可关注的内容"><a href="#可关注的内容" class="headerlink" title="可关注的内容"></a>可关注的内容</h4><p>游戏网站<br><a href="Bluesnews.com">Bluesnews.com</a><br><a href="Gamasutra">Gamasutra</a><br><a href="Gametrailers.com">Gametrailers.com</a><br><a href="%5BKillScreenDaily.com">KillScreenDaily.com</a><br><a href="Kotaku.com">Kotaku.com</a><br><a href="PocketGamer.co.uk">PocketGamer.co.uk</a><br><a href="Polygon.com">Polygon.com</a><br><a href="RetroGamer.net">RetroGamer.net</a></p>
-<p><a href="gdcbault.com">GDC Vault</a></p>
-<h3 id="亚里士多德vs-马里奥"><a href="#亚里士多德vs-马里奥" class="headerlink" title="亚里士多德vs.马里奥"></a>亚里士多德vs.马里奥</h3><p>亚里士多德：作者定义的故事<br>马里奥：玩家定义的故事<br>亚里士多德：三幕式结构<br>马里奥：Ad Hoc结构<br>亚里士多德：有限的时长<br>马里奥：有无限的时长吗<br>亚里士多德：观众在倾听<br>马里奥：等等，什么？</p>
-<h4 id="HomeWork3"><a href="#HomeWork3" class="headerlink" title="HomeWork3"></a>HomeWork3</h4><p>观看游戏电影（如Youtube search game movie<br>GameFly.com</p>
-<h3 id="电子游戏的无幕式结构"><a href="#电子游戏的无幕式结构" class="headerlink" title="电子游戏的无幕式结构"></a>电子游戏的无幕式结构</h3><p>To Be Continue…</p>
-]]></content>
-      <tags>
-        <tag>-笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>各种领域搜集的电子书分享</title>
-    <url>/2022/11/02/%E5%90%84%E7%A7%8D%E9%A2%86%E5%9F%9F%E6%90%9C%E9%9B%86%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%86%E4%BA%AB/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>-分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>翻墙后应该干什么？一些国外常用软件推荐(第一弹)</title>
-    <url>/2022/11/02/%E7%BF%BB%E5%A2%99%E5%90%8E%E5%BA%94%E8%AF%A5%E5%B9%B2%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%A4%96%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<h2 id="社交软件"><a href="#社交软件" class="headerlink" title="社交软件"></a>社交软件</h2><p>Discord 常用于游戏等，里面有屏幕分享、开黑语音等功能，也可以聊天或者学习<br>Line 类似于微信等<br>Telegram 大概是用来干奇怪的事情<br>Twitter 应该都知道<br>Facebook 应该也都知道<br>欢迎评论补充</p>
-<p>不用翻墙的软件一起推荐一下：<br>VRChat 社交游戏，可以学习语言<br>开黑吧 国内版的盗版Discord</p>
-<h2 id="视频软件"><a href="#视频软件" class="headerlink" title="视频软件"></a>视频软件</h2><p>Youtube 类似哔哩哔哩<br>NicoNico 类似以前的bilibili<br>Twitch 可以看直播<br>Netflix 可以看番</p>
-<p>其他：<br>233dm.cc<br>yhdmp.cc<br>盗版看番软件们</p>
-]]></content>
-      <tags>
-        <tag>-分享</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>概率为零的事件不一定不发生</title>
     <url>/2022/11/02/%E6%A6%82%E7%8E%87%E4%B8%BA%E9%9B%B6%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%8D%E4%B8%80%E5%AE%9A%E4%B8%8D%E5%8F%91%E7%94%9F/</url>
     <content><![CDATA[<p>最近看了《概率论与数理统计》（浙大版）和一些其他科普书籍<br>大概有三个点比较适合科普，就写一篇文章</p>
@@ -290,7 +353,7 @@
 <h3 id="由数学引出的浪漫"><a href="#由数学引出的浪漫" class="headerlink" title="由数学引出的浪漫"></a>由数学引出的浪漫</h3><p>根据贝叶斯公式</p>
 ]]></content>
       <tags>
-        <tag>-杂谈</tag>
+        <tag>杂谈</tag>
       </tags>
   </entry>
 </search>
